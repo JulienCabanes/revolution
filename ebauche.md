@@ -289,6 +289,79 @@ C'est là que leur code peut craquer, et c'est peut-être le climax moral :
   - les articles « intercalés » qui citent de vrais politiques doivent rester vraisemblables et non diffamatoires. En cas de doute, faire parler un porte-parole anonyme ou « l'entourage du candidat ».
 - Ça renforce le réalisme : le lecteur reconnaît le vrai monde, et l'invention se concentre sur les jeunes.
 
+### Décisions (Julien)
+- Ils s'attaquent au **premier tour**.
+- Ils font **pivoter l'opinion sur chacune des têtes de liste**, une par une.
+- **Marine Le Pen en dernier.**
+- Pas de diffamation. Et **pas de rumeurs** : peu crédible, et c'est déjà ce que font certains. Il faut **un autre levier**.
+
+---
+
+## 2 quinquies. Le levier : pas des rumeurs, des vérités qui changent la façon de voter
+
+Principe : les rumeurs ajoutent du bruit dans un monde saturé. Leur force à eux, c'est l'inverse : **ils retirent le bruit**. Chaque levier repose sur du vrai, du public, du vérifiable. Ce qui les rend efficaces, c'est la mise en scène, pas le contenu.
+
+### Pourquoi un premier tour peut basculer pour de vrai
+Un premier tour se joue souvent sur peu de choses : quelques points, une dynamique de fin de campagne, le **vote utile** (on vote pour celui qu'on croit capable de se qualifier, pas pour celui qu'on préfère). Le vote utile repose entièrement sur les **sondages**, c'est-à-dire sur une prophétie. Les personnages peuvent comprendre que **le vrai levier, c'est l'information qui coordonne les électeurs**, pas l'opinion sur les candidats.
+(Exemples réels de dynamiques de fin de campagne à étudier : la montée de Macron en 2017, la remontée de Mélenchon en 2022.)
+
+### Leviers possibles (vrais, non diffamatoires)
+
+**1. La prophétie (le levier de l'IA, le plus original)**
+- L'IA du dev, nourrie des discours, interviews et programmes publics de chaque candidat, prédit ce qu'il va dire : à la prochaine interview, au prochain meeting, au débat.
+- Le groupe publie la prédiction *avant*. Le candidat dit, presque mot pour mot, ce qui était annoncé.
+- Effet : on ne révèle rien de faux, on démontre que **le candidat récite**. Il perd ce qui compte le plus en campagne : l'impression de sincérité.
+- Effet secondaire comique : les équipes de campagne tentent d'être imprévisibles. Les candidats deviennent bizarres, ou, pour la première fois, sincères. Les deux sont intéressants.
+- Ça s'applique à tous de la même façon : le groupe ne prend parti pour personne.
+
+**2. Le miroir**
+- Mettre chaque candidat face à ses propres mots et à ses propres votes passés, uniquement des archives publiques (Assemblée, Parlement européen, interviews).
+- Pas « il a dit », mais **« vous avez dit »** : le document lui-même, daté, sourcé.
+- Classique (c'est du fact-checking), donc il faut que la mise en scène soit inattendue pour que ça perce.
+
+**3. Rendre les programmes lisibles**
+- « Le vrai secret, c'est ce qu'on noie. » Les programmes font cent pages que personne ne lit.
+- Un outil simple : tu entres ta situation (âge, métier, loyer, enfants), il te dit ce que chaque programme change *pour toi*, mesure par mesure, chiffré, sourcé.
+- Viral parce que personnel. Impitoyable parce que vrai. Et il touche tous les candidats.
+
+**4. Casser la prophétie des sondages**
+- Une consultation massive, ouverte, au **jugement majoritaire** (on note chaque candidat). Elle montre que les favoris sont aussi les plus rejetés, et qu'un autre candidat est largement « acceptable ».
+- Si elle est assez massive et crédible, elle **déplace le vote utile**. C'est le levier le plus réaliste pour changer un premier tour.
+- Limites à exploiter : la représentativité est contestée, les sondeurs ripostent, les candidats crient à la manipulation.
+
+**5. La majorité invisible : faire voter ceux qui ne votent pas**
+- Abstentionnistes, jeunes, non-inscrits. Inscription sur les listes électorales (date limite quelques semaines avant le scrutin, à vérifier), procurations.
+- Changer *qui* vote change le résultat plus sûrement que changer ce que pensent les votants.
+- Version Lupin : rendre l'inscription désirable, drôle, contagieuse.
+
+**6. Montrer la récupération**
+- Comment chaque camp s'est servi de la rue : les casseurs pour l'un, les syndicats pour l'autre, et leur propre commando pour un troisième.
+- Documents, images, dates. Le groupe s'inclut dans la démonstration, et c'est ce qui le rend crédible.
+
+### Une tête de liste par coup ?
+- Chaque candidat peut avoir *son* levier, adapté à son point faible réel et public : la sincérité pour l'un, la cohérence pour l'autre, le coût de son programme pour un troisième.
+- Structure de série : un coup par semaine, un candidat par épisode, l'opinion qui bouge à chaque fois dans les sondages (articles intercalés).
+- À doser : s'en prendre à tous, sauf la favorite, peut être lu comme *favoriser* la favorite. Les personnages s'en rendent compte en route.
+
+### Pourquoi Marine Le Pen en dernier
+Pistes de justification, dans l'histoire :
+- **C'est la plus difficile** : chaque attaque la renforce. « Le système s'acharne contre moi » est son meilleur argument (effet boomerang, observé depuis des années). Tous les leviers classiques échouent sur elle.
+- **C'est le boss final** : la structure monte en difficulté, comme un casse.
+- **Le piège** : en faisant baisser les autres, le groupe *lui ouvre la route*. Le premier tour qu'ils ont abîmé, c'est à elle qu'il profite. Panique dans le chat. Ils doivent trouver, en catastrophe, le levier qui marche sur elle.
+- **Son levier ne peut pas être une attaque.** Peut-être le contraire : lui retirer le monopole de l'« antisystème ». Démontrer, avec la même prophétie, qu'elle aussi récite, qu'elle est la pièce la mieux écrite du système, pas son ennemie. Ou casser le vote utile qui la sert.
+
+### La question vertigineuse du climax
+S'ils font baisser *toutes* les têtes de liste, **à qui profite le vide** ?
+- À un candidat qu'ils n'avaient pas vu venir (outsider, populiste d'un autre genre, quelqu'un qui récupère *leur* image). La récupération, encore.
+- Au vote blanc, à l'abstention.
+- À la favorite, malgré tout.
+- Ou à personne : un premier tour illisible, des résultats serrés, un pays qui doit enfin réfléchir.
+
+### Réalisme à vérifier avant d'écrire
+- Calendrier exact de la présidentielle 2027 (dépôt des parrainages, campagne officielle, inscriptions, débats).
+- Règles de la campagne officielle (temps de parole, période de réserve la veille du scrutin).
+- Règles sur la publication de sondages et ce qu'est juridiquement un « sondage » (une consultation ouverte n'en est pas un).
+
 ---
 
 ## 3. La cause, et comment elle évolue
