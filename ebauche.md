@@ -199,6 +199,66 @@ Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de comman
 - Le groupe se divise-t-il sur cette question ? (il y aura forcément quelqu'un pour qui c'est une trahison)
 - « Voir plus grand » : vers quoi ? Le gouvernement, les institutions du dialogue social, les médias qui racontent la pièce, ou la pièce elle-même ?
 
+### Décisions (Julien)
+- **Le dev** du groupe fait le hacking informatique. C'est lui qui retrace l'historique des revendications syndicales et ce qu'elles ont réellement obtenu.
+- Il **demande à une IA de prédire le prochain accord**. (→ la « prophétie » devient son coup.)
+- **Le syndicaliste** : usé, impuissant. Le mouvement est trop grand, la plupart ne se font plus d'illusions. Manifester est leur façon de croire qu'ils aident la cause. Au bout, c'est toujours de la récupération politique.
+
+### Le dev et l'IA
+- Son travail : aspirer des années de communiqués, d'accords, de revendications, d'articles (sources publiques), les aligner, mesurer l'écart entre ce qui est demandé et ce qui est obtenu. Une frise ou un graphique qui deviendra un document intercalé.
+- La prédiction : il donne tout à l'IA et lui demande d'écrire l'accord à venir. Il publie la prédiction. L'accord tombe, et il ressemble à la prédiction à 90 %.
+- Ce qui rend la scène forte : **ce n'est pas l'IA qui est intelligente, c'est le système qui est prévisible**. Une machine peut écrire la suite parce que la pièce se répète.
+- Dans le chat, ça peut être drôle (il copie-colle les réponses de l'IA dans le groupe, les autres la traitent comme un membre du groupe, lui donnent un surnom) puis glaçant.
+- Garder son hacking crédible et littéraire : analyse de données publiques, recoupements, automatisation. Pas de technique détaillée, ce n'est pas le sujet.
+- L'IA peut devenir un personnage discret, qui revient : oracle, conseiller, tentation.
+
+---
+
+## 2 quater. La récupération, puis les élections
+
+### L'idée (Julien)
+- **Tout est récupéré.** Les casseurs sont récupérés par la droite (argument sécuritaire), les syndicats par la gauche (argument social). Chaque camp se sert de la rue pour sa campagne.
+- **« Le coupable, c'est toujours la majorité. »**
+- Des élections arrivent. **Les deux candidats en tête sont aux deux extrêmes.** Ils ne veulent voter ni pour l'un ni pour l'autre.
+- → **Ils décident de s'attaquer à ça.**
+
+### Ce qui peut leur faire mal personnellement
+- **Leur propre coup a été récupéré.** Le candidat d'extrême droite cite leur action anti-casseurs en meeting : « Même les jeunes manifestants en ont assez des voyous. » Les images de leur commando passent dans son clip de campagne.
+- Ils ont voulu protéger le message, et ils ont servi le camp qu'ils détestent. Retour de la vitrine, en pire.
+- Ça donne un enjeu intime à leur entrée dans l'élection : réparer, ou au moins reprendre leur image.
+
+### « Le coupable, c'est toujours la majorité » : plusieurs lectures possibles
+1. **La majorité silencieuse** : ceux qui ne disent rien, laissent faire, votent par habitude ou ne votent pas. Le système tient parce que la majorité le tolère.
+2. **Le système majoritaire** : un mode de scrutin où il faut choisir *contre* quelqu'un, qui pousse au second tour les candidats les plus clivants et efface tous les autres.
+3. **La majorité qui ne se reconnaît dans aucun des deux** : elle existe, elle est même majoritaire, mais le scrutin ne lui donne aucune voix. C'est la majorité invisible.
+→ Les trois peuvent coexister, ou se succéder dans la compréhension des personnages.
+
+### Pistes pour « s'attaquer à ça » (brutes)
+- **Le chronomètre** : si c'est une présidentielle, il y a deux semaines entre les deux tours. Structure de thriller toute trouvée, compte à rebours.
+- **Rendre visible la majorité invisible** :
+  - le vote blanc (en France, il est compté depuis 2014 mais n'entre pas dans les suffrages exprimés, à vérifier). Une campagne pour faire du blanc un « troisième candidat », avec un visage, une affiche, un slogan ;
+  - l'abstention comme « premier parti de France ».
+- **L'élection fantôme** : organiser en parallèle un vote avec un autre mode de scrutin, par exemple le **jugement majoritaire** (inventé par deux chercheurs français, Balinski et Laraki, utilisé par la Primaire populaire en 2022 ; à vérifier). On note chaque candidat au lieu d'en choisir un. Le résultat montre que ni l'un ni l'autre des finalistes n'aurait gagné. Le hack : utiliser la démocratie pour démontrer que le scrutin ment.
+- **La prophétie, version électorale** : l'IA écrit à l'avance les discours, les réponses du débat d'entre-deux-tours, les « petites phrases ». Publiés avant. Ils se réalisent. Les deux extrêmes apparaissent comme les deux rôles d'une même pièce.
+- **Le débat sans eux** : organiser le débat que personne n'organise, avec les gens, pendant que le vrai débat passe à la télé.
+- **Montrer la récupération** : remonter, documents à l'appui, comment chaque camp a utilisé la rue (casseurs pour l'un, syndicats pour l'autre, et eux-mêmes).
+- **Références historiques** : la candidature de Coluche en 1981 (le rire comme arme électorale), le Parti Rhinocéros au Canada, d'autres candidatures parodiques à creuser.
+
+### La grande tentation : manipuler
+C'est là que leur code peut craquer, et c'est peut-être le climax moral :
+- Avec l'IA et les compétences du dev, ils *pourraient* influencer l'élection : faux contenus, faux comptes, rumeurs. Ce serait efficace.
+- Mais ce serait faire exactement ce qu'ils reprochent aux autres : récupérer, manipuler, décider à la place des gens.
+- Règle : **déguiser les visages, jamais la vérité.**
+- Qui veut franchir la ligne ? Probablement l'ancien lanceur de grenades (efficacité d'abord), ou le dev lui-même, grisé par le pouvoir de son outil.
+- Détail possible : l'IA elle-même refuse certaines demandes, et c'est ce refus qui fait réfléchir le groupe.
+- Leur réponse doit être plus élégante que la manipulation : ne pas dire aux gens pour qui voter, mais leur **montrer le jeu**.
+
+### Questions
+- Quelle élection ? Présidentielle (la plus spectaculaire, chrono de deux semaines), législatives, municipales ? Pays réel, ou un pays proche mais inventé ?
+- Leur but : changer le résultat, ou changer la façon dont les gens regardent l'élection ?
+- Comment finit l'élection dans la nouvelle ? On connaît le résultat, ou la nouvelle s'arrête la veille du vote ?
+- « Le coupable, c'est la majorité » : quelle lecture te parle le plus ?
+
 ---
 
 ## 3. La cause, et comment elle évolue
