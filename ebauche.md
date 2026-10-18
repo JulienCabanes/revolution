@@ -350,6 +350,32 @@ Pistes de justification, dans l'histoire :
 - **Le piège** : en faisant baisser les autres, le groupe *lui ouvre la route*. Le premier tour qu'ils ont abîmé, c'est à elle qu'il profite. Panique dans le chat. Ils doivent trouver, en catastrophe, le levier qui marche sur elle.
 - **Son levier ne peut pas être une attaque.** Peut-être le contraire : lui retirer le monopole de l'« antisystème ». Démontrer, avec la même prophétie, qu'elle aussi récite, qu'elle est la pièce la mieux écrite du système, pas son ennemie. Ou casser le vote utile qui la sert.
 
+### Option dangereuse (Julien) : lui ouvrir la voie *volontairement*
+> Neutraliser tous les autres pour lui dégager tellement la route que **la France entière se soulève avant même le premier tour**.
+
+**Pourquoi c'est fort**
+- **Écho historique direct : 21 avril 2002.** Jean-Marie Le Pen au second tour, la sidération, des manifestations immenses entre les deux tours (1ᵉʳ mai 2002, plus d'un million de personnes, chiffres à vérifier), Chirac réélu à 82 %. Le groupe veut **provoquer 2002 *avant* le premier tour**, quand il est encore temps de changer le vote, et pas après, quand il ne reste que le barrage.
+- **Le vertige du chiffre** : les sondages finissent par montrer qu'elle pourrait être **élue dès le premier tour** (plus de 50 %). Ça n'est jamais arrivé sous la Vᵉ République (même de Gaulle a été mis en ballottage en 1965). C'est un titre de presse qui sidère un pays entier.
+- **L'ironie de la boucle** : leur parcours commence par « les manifs ne servent à rien » et se termine par… la plus grande manif de l'histoire du pays. Mais ce n'est plus un rituel. Personne ne l'a convoquée. Pas de syndicat, pas de parti, pas d'intersyndicale. Un pays qui se réveille.
+
+**Pourquoi c'est dangereux (et c'est ce qui rend le climax intéressant)**
+- **L'apprenti sorcier** : s'ils se trompent, elle gagne. Et ce sera de leur faute.
+- **Ils trahissent leur propre code sans mentir** : chaque levier reste vrai, mais l'intention est de manipuler l'émotion d'un pays entier. Ils décident à la place des gens, exactement ce qu'ils reprochaient aux autres. La ligne franchie n'est pas le mensonge, c'est **jouer à Dieu**.
+- **La récupération guette encore** : le soulèvement peut être récupéré par le « front républicain », c'est-à-dire la rengaine même qu'ils combattent (« votez pour moi ou ce sera elle »). 2002 a donné naissance au chantage qui s'est répété en 2017 et 2022. Le groupe doit empêcher que le réveil soit rendormi en vote barrage.
+- **Son camp peut retourner l'histoire** : « Le système a peur de nous », « Ils manipulent le peuple contre la favorite ». Si on apprend que tout a été orchestré par un groupe de jeunes, c'est elle qui gagne le récit.
+
+**Le groupe face à ce plan**
+- Celui qui le propose : l'ancien lanceur de grenades, évidemment. C'est la casse, version stratégie.
+- Celui qui refuse et quitte le groupe (moment fort du chat : « X a quitté le groupe »).
+- Le parent syndicaliste, s'il l'apprend : horrifié. Il a vécu 2002.
+- Le dev et l'IA : il demande à l'IA la probabilité que le pays se soulève. L'IA, si sûre d'elle sur les candidats, ne sait pas répondre. **Retournement du motif de la prophétie** : la seule chose imprévisible dans ce système, c'est la foule. Toute leur méthode reposait sur la prévisibilité. Leur pari final repose sur l'imprévisible.
+
+**Questions que ça ouvre**
+- Le soulèvement produit quoi, concrètement, avant le premier tour ? Une inscription massive, une participation record, un candidat inattendu porté par la vague, un vote blanc historique, autre chose ?
+- Le soulèvement est-il pacifique jusqu'au bout ? (La vitrine du début peut revenir : une seule voiture brûlée suffirait à tout faire basculer dans l'autre sens. Le commando anti-casseurs du début reprend du service ?)
+- Le public apprend-il que c'était orchestré ? Lupin signe toujours… mais signer ici, c'est offrir la victoire au camp adverse. Peut-être la première fois qu'ils **renoncent à signer**.
+- La fin : on connaît le résultat du premier tour, ou la nouvelle s'arrête dans la foule, sans savoir ?
+
 ### La question vertigineuse du climax
 S'ils font baisser *toutes* les têtes de liste, **à qui profite le vide** ?
 - À un candidat qu'ils n'avaient pas vu venir (outsider, populiste d'un autre genre, quelqu'un qui récupère *leur* image). La récupération, encore.
