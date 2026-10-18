@@ -141,6 +141,64 @@ Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de comman
 - Est-ce qu'un membre du groupe *était* casseur avant ?
 - Celui qui renvoie les grenades : est-ce le même que celui qui propose l'idée anti-casseurs ? (ironie : il est le plus proche des casseurs)
 
+### Décision (Julien)
+- Oui : **celui qui renvoie les grenades est aussi celui qui propose l'idée anti-casseurs**. Il est le plus proche des casseurs, il parle leur langue.
+
+---
+
+## 2 ter. Après le coup anti-casseurs : « à quoi bon ? »
+
+### Le déroulé (Julien)
+1. Le commando agit pendant **une** manif. Ça passe aux infos.
+2. Les manifs s'arrêtent. La vie reprend son cours.
+3. Le gouvernement annonce des rencontres avec les syndicats.
+4. Peu de retombées concrètes. Des « accords » sont signés, rien ne change pour les gens.
+5. Les syndicats font partie du jeu. **Pas un complot : une rengaine.** Tous les six mois, la même pièce, les mêmes rôles. Et personne ne remet en cause les syndicats.
+6. → Le groupe : « À quoi bon ? » Puis : il faut voir plus grand.
+
+### Le paradoxe du succès
+- Leur coup a marché. Peut-être trop bien : sans casse, la manif ne fait plus peur à personne, et le pouvoir peut attendre tranquillement qu'elle s'essouffle.
+- Question insupportable pour eux, que l'un d'eux finira par poser (sans doute l'ancien lanceur de grenades) : **« Et si la casse, c'était la seule chose qui les faisait bouger ? »**
+- Ils ne répondent pas oui. Mais ils ne savent pas répondre non. C'est là que naît l'idée qu'il faut un autre levier, ni la masse, ni la casse.
+- Côté médias : le reportage les présente en héros pendant 24 h (« Ces manifestants qui ont dit stop aux casseurs »), puis plus rien. La gloire dure exactement le temps d'un cycle d'info.
+
+### Le « à quoi bon » dans le chat
+- Le format s'y prête : **le silence**. Des jours, puis des semaines sans message. Les dates qui sautent.
+- Quelqu'un poste le lien de l'article sur « l'accord historique ». Personne ne réagit. Ou juste un 👍 ironique.
+- Le groupe s'est renommé tout seul, ou personne n'a pris la peine de changer le nom de la dernière manif.
+- Puis un message, tard, qui relance tout.
+
+### La rengaine : ce qu'ils découvrent
+- Un rituel en plusieurs actes, toujours le même :
+  journée de mobilisation → intersyndicale → « dialogue social » → réunion à Matignon → « avancées significatives » → accord → démobilisation → six mois → on recommence.
+- Chaque acteur y trouve son compte :
+  - le gouvernement montre qu'il « écoute » ;
+  - les syndicats montrent qu'ils « obtiennent » et justifient leur rôle ;
+  - les médias ont leur feuilleton (« sortie de crise ») ;
+  - **les gens**, eux, n'obtiennent rien.
+- Ce n'est pas de la corruption, c'est une **pièce de théâtre que tout le monde joue de bonne foi**. Les syndicalistes y croient souvent. C'est ce qui la rend si solide.
+- Pistes pour nourrir ça (à vérifier) : taux de syndicalisation en France (faible, autour de 10 %), financement des syndicats (cotisations, mais aussi fonds publics et paritarisme), permanents professionnalisés, institutions de « dialogue social » qui ont besoin d'interlocuteurs officiels.
+- **Le tabou** : critiquer les syndicats, à gauche, c'est passer pour un traître ou pour un libéral. Les personnages vont buter là-dessus. Certains refuseront.
+
+### Nuance à garder (pour que ce ne soit pas un pamphlet)
+- Un des personnages a un parent syndicaliste : sincère, usé, qui a passé sa vie à négocier des miettes et qui sait que ce sont des miettes. Il n'est pas un traître, il est fatigué. Peut-être le plus beau personnage secondaire.
+- Les syndicats ont *aussi* obtenu de vraies choses dans l'histoire. Le problème n'est pas leur existence, c'est le rituel qui s'est figé.
+
+### Premières idées de hacks contre la rengaine (pistes brutes)
+- **Rendre visible la répétition.** Comparer les communiqués du gouvernement et des syndicats d'il y a six mois, un an, cinq ans : presque mot pour mot les mêmes. Les publier côte à côte, surlignés.
+- **La prophétie.** Publier à l'avance le communiqué de la *prochaine* réunion, avant qu'elle ait lieu. Quand le vrai sort, il est presque identique. Effet comique et vertigineux : la pièce est déjà écrite.
+- **Le bingo du dialogue social.** Une grille avec « avancées significatives », « dialogue constructif », « nous resterons vigilants », « méthode ». Les gens jouent en direct pendant les déclarations.
+- **Le calendrier.** Afficher le cycle comme un calendrier de saisons : « Printemps : mobilisation. Été : concertation. Automne : accord. Hiver : on oublie. »
+- **Le compteur.** Pour chaque « accord historique », un suivi public de ce qui a réellement changé pour les gens, six mois plus tard.
+
+→ Ces idées prolongent le hacking « rendre lisible ce qui est noyé » : le système ne cache pas la rengaine, il compte sur l'oubli.
+
+### Questions
+- Les syndicats sont-ils une étape (une cible parmi d'autres) ou le cœur de l'histoire ?
+- Le parent syndicaliste : allié, obstacle, ou les deux ?
+- Le groupe se divise-t-il sur cette question ? (il y aura forcément quelqu'un pour qui c'est une trahison)
+- « Voir plus grand » : vers quoi ? Le gouvernement, les institutions du dialogue social, les médias qui racontent la pièce, ou la pièce elle-même ?
+
 ---
 
 ## 3. La cause, et comment elle évolue
