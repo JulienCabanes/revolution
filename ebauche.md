@@ -96,11 +96,50 @@ Pistes pour la manif :
 
 Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de commando (cohésion, discrétion, chorégraphie, piège) vers d'autres cibles. Le piège de la boutique devient, plus tard, le piège du gala.
 
+### Décisions (Julien)
+- **Ton du début : décalé.**
+- **Premier désaccord interne** : certains renvoient les grenades aux CRS, d'autres trouvent ça idiot ou dangereux. Le groupe n'est pas d'accord dès la première page.
+- **L'idée anti-casseurs n'est pas premier degré au départ** : quelqu'un la lance, personne ne le prend au sérieux. Puis un deuxième dit « et pourquoi pas ? ». À eux deux, ils convainquent les autres.
+
+### Pistes pour mettre ça en scène
+
+**Le débat « on renvoie ou pas »** : chacun sa position, qui annonce déjà son caractère.
+- Le réflexe : « C'est leur gaz, je leur rends. C'est de la politesse. »
+- L'image : « T'es filmé, demain t'es le casseur sur BFM. »
+- Le pragmatique : « Ça sert à rien, avec le vent ça nous retombe dessus. » (et il a raison, ça leur retombe dessus)
+- L'ironique, qui compte les points.
+- Celui qui n'a pas d'avis et qui veut juste qu'on arrête de se disputer dans le groupe.
+
+**La bascule comique d'un débat à l'autre.** L'idée anti-casseurs peut naître *du* débat sur les grenades :
+> « Tant qu'à renvoyer des trucs, autant les renvoyer sur les bons. »
+Ça commence comme une blague pour clore la dispute. C'est justement parce que c'est une blague qu'elle reste dans les têtes.
+
+**Qui propose, qui dit « pourquoi pas ? »**
+- Celui qui propose : le clown du groupe, celui qui a toujours des idées absurdes (« lance-filets comme Spider-Man »). Il envoie ça avec un GIF, à 1 h du matin. Personne ne répond, ou juste « 😂 ».
+- Celui qui dit « pourquoi pas ? » : de préférence **le plus inattendu**, le sérieux, le rationnel, celui qui ne plaisante jamais. C'est parce que c'est *lui* que les autres s'arrêtent. Et peut-être plusieurs heures après, au milieu d'une autre conversation : « Au fait. Le truc des filets. En vrai, pourquoi pas ? »
+- Variante : celui qui renvoyait les grenades et celui qui était contre se retrouvent d'accord sur cette idée, chacun pour de mauvaises raisons.
+
+**Comment ils convainquent les autres** (étapes, chacune peut être une scène) :
+1. Le sondage WhatsApp : « On devient des super-héros ? Oui / Non / Seulement si on a des costumes ». Les résultats sont serrés et absurdes.
+2. Le sérieux fait une vraie présentation, avec un document partagé, des chiffres et une analyse des vidéos de la dernière manif. Décalage total entre son sérieux et l'idée de départ.
+3. Une réunion physique (kebab, appartement, parc) où les sceptiques posent les vraies objections, et où l'idée, au lieu de mourir, s'affine.
+4. Un test « pour voir » dans une petite manif, sans conséquence, qui marche un peu trop bien.
+
+**Marqueurs du ton décalé**
+- La logistique absurde : le rayon pêche de Decathlon pour les filets, comparatif des billes de paintball, quelqu'un qui commande sur Amazon avec livraison chez ses parents.
+- Le débat sur le nom du groupe, interminable, plus long que celui sur la stratégie.
+- Le débat sur les costumes et les masques (le paradoxe : se masquer pour combattre ceux qui se masquent).
+- Les noms successifs du groupe WhatsApp.
+- Les messages vocaux de 4 minutes que personne n'écoute, les réactions emoji qui tiennent lieu de vote.
+- Les articles de presse intercalés, très sérieux, qui contrastent avec le chat.
+
+**Comment l'humour s'assombrit** : le même running gag (les filets, le nom, le sondage) revient plus tard, mais il ne fait plus rire.
+
 ### Questions sur cette piste
-- Ton : thriller tendu, ou déjà décalé et drôle, avec un humour qui s'assombrit ?
 - Jusqu'où va le commando avant la bascule ? Un coup réussi, un raté, un drame ?
 - Les casseurs sont-ils des personnages à part entière, avec un visage et une voix, éventuellement dans le groupe WhatsApp d'en face ?
 - Est-ce qu'un membre du groupe *était* casseur avant ?
+- Celui qui renvoie les grenades : est-ce le même que celui qui propose l'idée anti-casseurs ? (ironie : il est le plus proche des casseurs)
 
 ---
 
