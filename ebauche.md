@@ -54,6 +54,56 @@ Pistes pour la manif :
 
 ---
 
+## 2 bis. Piste retenue pour le début : les justiciers anti-casseurs
+
+> Idée de Julien : ce qui les met en colère d'abord, ce ne sont pas les puissants, ce sont **les casseurs**. Ils veulent les mettre hors d'état de nuire.
+
+### Point de départ
+- Au début, ils renvoient les lacrymos vers les policiers, réflexe de manifestant.
+- Ils comprennent que ça protège surtout les casseurs : la fumée les couvre, le cortège leur sert de bouclier humain.
+- Ils ne peuvent pas les arrêter à mains nues sans se mettre en danger.
+- **Intuition** : eux peuvent faire ce que la police ne peut pas. Ils sont *dans* le cortège, invisibles, au contact, on leur fait confiance.
+- → Ils montent un **commando dans la manif** : des justiciers masqués.
+
+### Idées de méthodes (à l'état brut)
+- **Marquer** : billes de peinture, encre, produit marquant. Le casseur devient identifiable après coup, une fois le masque tombé.
+- **Entraver** : filets, cordes, bras entrelacés en chaîne humaine.
+- **Le piège** : une boutique ouverte où les casseurs s'engouffrent, et la porte se referme.
+- **La cohésion** : rôles, signaux, formation compacte, se reconnaître entre eux sans se faire repérer.
+
+### Version Lupin, moins de force, plus de ridicule
+- Encercler les casseurs avec une fanfare, des danseurs, des clowns. Ils sont noyés dans la fête, impossible de casser au milieu d'une batucada qui joue *La Danse des canards*.
+- Les démasquer symboliquement : confettis, paillettes, peinture rose. Le « bloc noir » devient le « bloc rose », et la photo du lendemain est ridicule au lieu d'être spectaculaire.
+- Les filmer de très près, en permanence, avec des perches et des projecteurs : la caméra comme arme.
+- Leur voler la vedette : au moment où ils frappent, déclencher une image plus forte ailleurs dans le cortège.
+- Réf. réelles : la Clandestine Insurgent Rebel Clown Army (clowns militants, années 2000), et les services d'ordre syndicaux qui se sont opposés aux black blocs (ex. 2016).
+
+### Ce que cette piste apporte dramatiquement
+- **Un ennemi proche, presque un frère.** Les casseurs sont du même camp, ils ont la même colère. Les combattre, c'est se battre contre une partie de soi.
+- **La même spirale que la vitrine.** Ils veulent protéger le message, et c'est *eux* qui deviennent le spectacle. Titre possible du lendemain : « Une milice anti-casseurs dans la manif ». Le message est encore effacé, cette fois par eux.
+- **La loi n'est pas de leur côté.** Enfermer des gens, c'est de la séquestration. Les marquer ou les entraver, ce sont des violences en réunion. Ils se retrouvent poursuivis plus durement que les casseurs.
+- **L'erreur de cible.** Celui qu'ils piègent n'est pas celui qu'ils croyaient : un ado de 15 ans, un journaliste, un policier infiltré (rumeur récurrente dans les manifs), un ami d'un des membres, ou le frère de l'un d'eux.
+- **Le danger réel.** Une boutique fermée avec des gens paniqués dedans, de la fumée, une bousculade : le piège peut tourner au drame. C'est peut-être *le* moment de bascule.
+- **Les casseurs répliquent.** Doxx, menaces, traque. Ils deviennent la cible des deux camps.
+- **La police les récupère.** Un commissaire ou un service de renseignement voit en eux des auxiliaires utiles et leur propose de « collaborer ». C'est la tentation.
+
+### Arc possible
+1. **Le nombre ne suffit pas** (manif pacifique, rien ne change).
+2. **La casse dessert** (la vitrine).
+3. **Combattre les casseurs ne marche pas non plus** : ils deviennent eux-mêmes une violence, ou une police, et le message se perd encore.
+4. → Ils comprennent que le problème n'est pas dans la manif, il est *ailleurs*. La rue est un théâtre où le système a déjà écrit le rôle de chacun : manifestants, casseurs, policiers, et même justiciers. Il faut changer de scène.
+5. → Bascule vers la méthode Lupin : ne plus jouer dans la pièce, en écrire une autre.
+
+Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de commando (cohésion, discrétion, chorégraphie, piège) vers d'autres cibles. Le piège de la boutique devient, plus tard, le piège du gala.
+
+### Questions sur cette piste
+- Ton : thriller tendu, ou déjà décalé et drôle, avec un humour qui s'assombrit ?
+- Jusqu'où va le commando avant la bascule ? Un coup réussi, un raté, un drame ?
+- Les casseurs sont-ils des personnages à part entière, avec un visage et une voix, éventuellement dans le groupe WhatsApp d'en face ?
+- Est-ce qu'un membre du groupe *était* casseur avant ?
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
