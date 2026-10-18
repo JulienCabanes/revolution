@@ -259,6 +259,36 @@ C'est là que leur code peut craquer, et c'est peut-être le climax moral :
 - Comment finit l'élection dans la nouvelle ? On connaît le résultat, ou la nouvelle s'arrête la veille du vote ?
 - « Le coupable, c'est la majorité » : quelle lecture te parle le plus ?
 
+### Décision (Julien) : la vraie France, les vrais candidats
+- Pas de personnages politiques inventés : on ne sait pas quoi en penser, il faut les construire, et ça casse le réalisme.
+- Objectif : **que le lecteur se dise que c'est possible**.
+- → Élection visée : **présidentielle 2027** (1ᵉʳ tour en avril 2027, dates à vérifier).
+
+### État des lieux (recherche du 18/10/2026, sources non officielles, à revérifier régulièrement)
+- Sondages : **Marine Le Pen** largement en tête au 1ᵉʳ tour (autour de 34-36 %). Derrière, **Édouard Philippe**, **Jean-Luc Mélenchon** et **Raphaël Glucksmann** se disputent la 2ᵉ place (13-18 %).
+- Le second tour le plus testé par les sondeurs est **Le Pen / Philippe**, pas Le Pen / Mélenchon.
+- Autres déclarés ou pressentis cités : Arthaud, Tondelier, Ruffin, Roussel, Attal, Retailleau, Lisnard, Dupont-Aignan, Zemmour ; pressentis : Hollande, Lecornu, Le Maire ; Wauquiez selon les sources.
+- À vérifier : la situation judiciaire de Marine Le Pen (inéligibilité, appel) et donc qui est réellement candidat pour le RN (elle ou Jordan Bardella).
+- Sources : sondage-presidentielle.fr/candidats, elyseescope.com, epocinfo.fr.
+
+### Le problème que ça pose à l'intrigue
+- La prémisse « deux extrêmes au second tour » correspond à **un** scénario (Le Pen / Mélenchon), aujourd'hui moins probable que Le Pen / Philippe selon les sondages.
+- Options :
+  1. **Garder Le Pen / Mélenchon** comme hypothèse d'anticipation. Plausible, déjà testé par les sondeurs, mais la réalité peut contredire le livre.
+  2. **Suivre le scénario le plus probable** (Le Pen / Philippe) et déplacer la colère : non plus « deux extrêmes », mais « un extrême et le système qui l'a fabriqué ». Le second tour comme chantage (« votez pour moi ou ce sera elle »), la troisième fois en dix ans. C'est peut-être plus réaliste *et* plus fort, puisque c'est la rengaine appliquée à l'élection.
+  3. **Rester flou sur le second tour** : la nouvelle se déroule avant le 1ᵉʳ tour, quand les sondages annoncent un duel que les personnages refusent. Ils agissent sur la *prophétie* des sondages, pas sur le résultat. Ça colle au thème de la prévisibilité (l'IA, la pièce déjà écrite).
+  4. **Attendre** : écrire au fil de la campagne et ajuster jusqu'au résultat réel. Risqué, mais vivant.
+
+### Précautions avec de vraies personnes (pour écrire tranquille)
+- Précédent : *Soumission* (Houellebecq, 2015) met en scène de vrais politiques dans une présidentielle à venir. C'est faisable, et c'est une tradition.
+- Les risques juridiques en France tiennent surtout à la **diffamation** (attribuer à quelqu'un des faits précis faux qui portent atteinte à son honneur) et à l'**atteinte à la vie privée**. La satire est largement protégée, *à condition qu'on la reconnaisse comme telle*.
+- Règles pratiques, qui rejoignent le code du groupe (« jamais déguiser la vérité ») :
+  - les candidats restent **hors-champ** : ils apparaissent à travers leurs déclarations publiques réelles, des extraits de presse, des débats télévisés ;
+  - **ne jamais leur inventer** de scandale, de crime, de citation ou de scène privée ;
+  - les actions du groupe visent le **système** (scrutin, sondages, rituel, récupération), pas la personne ;
+  - les articles « intercalés » qui citent de vrais politiques doivent rester vraisemblables et non diffamatoires. En cas de doute, faire parler un porte-parole anonyme ou « l'entourage du candidat ».
+- Ça renforce le réalisme : le lecteur reconnaît le vrai monde, et l'invention se concentre sur les jeunes.
+
 ---
 
 ## 3. La cause, et comment elle évolue
