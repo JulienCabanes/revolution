@@ -250,6 +250,27 @@ Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de comman
 - **Montrer la récupération** : remonter, documents à l'appui, comment chaque camp a utilisé la rue (casseurs pour l'un, syndicats pour l'autre, et eux-mêmes).
 - **Références historiques** : la candidature de Coluche en 1981 (le rire comme arme électorale), le Parti Rhinocéros au Canada, d'autres candidatures parodiques à creuser.
 
+### 💡 Idée de Julien (à garder) : le père dans la cybersécurité
+- Le père d'un des jeunes travaille dans une entreprise qui gère la **cybersécurité de grandes entreprises, voire de ministères** (à préciser).
+- Le jeune connaît **le mot de passe du Mac de son père**. Techniquement, il a accès à tout.
+- **Ultra crédible** : c'est la situation de Julien. La faille n'est pas technique, elle est domestique. Le mot de passe noté quelque part, vu par-dessus l'épaule, le prénom du chien.
+
+**Ce que ça apporte**
+- **Le fusil de Tchekhov.** Cet accès est posé tôt, presque en passant (une blague dans le chat, « mon père il a les clés de la moitié du CAC 40 »), et il pèse sur toute l'histoire. Le lecteur sait qu'il est là.
+- **La tentation absolue.** Tous les leviers du groupe reposent sur le vrai et le public. Cette porte-là, c'est l'inverse : le secret et le volé. Le code (« on ne garde rien », « jamais déguiser la vérité ») est mis à l'épreuve non par un ennemi, mais par la facilité.
+- **« La faille, c'est toujours un humain. »** Ici, l'humain, c'est un père qui fait confiance à son fils. Utiliser l'accès, c'est trahir quelqu'un qu'on aime.
+- **Les conséquences retombent sur le père.** Si quelque chose fuit, l'enquête remonte à son entreprise, à son poste, à son Mac. Il perd tout. Le fils le sait.
+- **Le contraste avec le dev.** Le dev du groupe s'interdit le piratage (« tout est public, c'est juste noyé »). Celui qui a la vraie porte d'entrée n'est peut-être pas le dev. Ça crée une tension entre eux : le technicien qui a des principes et l'ami qui a juste un mot de passe.
+- **Trois pères, trois institutions** : le cheminot syndicaliste (le contre-pouvoir), le flic de gauche (l'ordre), le père cyber (la sécurité de l'État et des grandes entreprises). À voir si on garde les trois ou si c'est trop.
+
+**Ce qu'on en fait (options)**
+1. **Jamais utilisé.** La retenue est le sujet. Le moment le plus fort de la nouvelle est peut-être celui où il ferme le Mac sans rien toucher.
+2. **Utilisé une seule fois**, au pire moment (la panique de l'option dangereuse), et c'est la catastrophe, ou ce qui fait basculer le groupe.
+3. **Il ouvre, regarde, ne prend rien.** Et ce qu'il voit change sa compréhension du système, sans pouvoir s'en servir puisqu'il ne peut pas le prouver sans tout avouer. Savoir sans pouvoir dire.
+4. **Le père découvre** que son fils connaît le mot de passe. Scène père-fils. Peut-être que le père en sait plus qu'on ne croit, ou qu'il a lui-même des doutes sur ce qu'il protège.
+
+**Prudence d'écriture** : rester littéraire sur la technique. L'intérêt, c'est le geste (le curseur sur le champ du mot de passe, la session qui s'ouvre), pas la méthode.
+
 ### La grande tentation : manipuler
 C'est là que leur code peut craquer, et c'est peut-être le climax moral :
 - Avec l'IA et les compétences du dev, ils *pourraient* influencer l'élection : faux contenus, faux comptes, rumeurs. Ce serait efficace.
