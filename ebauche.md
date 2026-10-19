@@ -560,6 +560,12 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - Filles : Emma, Léa, Chloé, Manon, Inès, Camille, Jade, Clara, Lola, Sarah, Zoé, Lilou, Lina, Louise, Lou, Maëlys, Océane, Anaïs, Romane, Eva, Juliette, Yasmine, Nour, Maïwenn.
 - Les prénoms disent aussi le milieu : un Louis et un Rayan ne viennent pas forcément du même quartier, et c'est une richesse pour le groupe (et pour le WhatsApp : orthographe, codes, humour différents).
 
+### ✅ Prénoms retenus (Julien)
+- Garçons : **Lucas, Enzo, Mathis, Théo, Tom, Yanis, Rayan, Diego, Evan**
+- Filles : **Léa, Manon, Inès, Lola, Zoé, Yas'** (Yasmine, mais tout le monde dit Yas'), **Nour**
+
+→ Le groupe principal en prendra 4 ou 5. Les autres serviront aux personnages secondaires : les amis recrutés pour une action, le casseur piégé par erreur, un frère ou une sœur, le groupe WhatsApp « d'en face », l'ex de quelqu'un, le camarade de lycée qui balance.
+
 ### Les archétypes, revisités (pour plus tard, quand on fera le « qui »)
 Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 - **François**, l'aîné, le chef raisonnable → celui qui organise, rassure, et qui craque le plus tard (le sérieux qui dit « et pourquoi pas ? »).
