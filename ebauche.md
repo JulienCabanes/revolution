@@ -579,6 +579,13 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Dans le chat** : beaucoup de jurons, peu de fautes (ou des fautes faites exprès ?), des messages vocaux énervés.
 - **Ce qu'il risque** : il est le seul à avoir un filet de sécurité (avocats, réseau, argent). Les autres le savent. « Toi, au pire, ton père appelle quelqu'un. » Tension de classe dans le groupe, surtout quand les ennuis arrivent.
 
+**✅ Victor organise les soirées (Julien)**
+- C'est **chez lui** qu'ont lieu les soirées. **Les parents sont souvent absents** (cliché assumé de la famille qui a de l'argent).
+- → **L'appartement du 16ᵉ devient le QG** du groupe, leur « île de Kernach ». Les scènes « en vrai » s'y passent : grand salon, vue, frigo plein, voisins qui se plaignent, gardien qui les regarde passer (surtout Rayan et Nour).
+- → **Le Mac du père est là, dans la pièce d'à côté**, à chaque soirée. La tentation n'est pas abstraite : il suffit d'ouvrir une porte. Fusil de Tchekhov accroché au mur du bureau.
+- → Contraste social immédiat pour les autres : Nour qui a mis 1 h 15 à venir, Rayan qui se fait regarder dans l'ascenseur, Zoé qui compare avec sa chambre étudiante. Victor qui en a honte et qui en fait trop.
+- → L'absence des parents, c'est aussi la solitude de Victor. La raison pour laquelle il organise des soirées, c'est peut-être d'abord pour ne pas être seul dans ce grand appartement.
+
 **✅ Précisions (Julien)**
 - C'est **son père, directement**, qui travaille dans la cybersécurité (« oncle Henri » n'était que le clin d'œil au Club des Cinq). Plus crédible.
 - Victor est **la source d'argent** quand le groupe en a besoin. **Facilité de scénario à ne pas abuser** : une ou deux fois, et chaque fois que ça arrive, ça doit coûter quelque chose (une dispute, un mensonge à ses parents, une humiliation, une dette morale, un « toi au pire ton père paie »). Et ça frotte avec la règle « on ne garde rien » : l'argent entre, il ne sort jamais pour eux.
