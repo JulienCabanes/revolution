@@ -540,6 +540,41 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 ---
 
+## 2 nonies. Le groupe : un Club des Cinq, version sombre
+
+> Idée de Julien : le groupe, c'est un peu **le Club des Cinq, en plus sombre**.
+
+### Ce que ça donne
+- **L'esprit** : une bande soudée, des aventures, des enquêtes, des adultes qui ne voient rien, des « méchants » à démasquer, des repas partagés. Mais l'aventure est réelle, les dangers aussi, et l'innocence se perd en route.
+- **L'arc du ton** colle parfaitement : on démarre en Enid Blyton (décalé, joyeux, un peu naïf) et on finit en roman noir.
+
+### Les archétypes, revisités (pour plus tard, quand on fera le « qui »)
+Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
+- **François**, l'aîné, le chef raisonnable → celui qui organise, rassure, et qui craque le plus tard (le sérieux qui dit « et pourquoi pas ? »).
+- **Mick**, le frère, l'aventurier → le casse-cou, le lanceur de grenades, celui de Spiderman.
+- **Claude (Claudine)**, rebelle, refuse les rôles qu'on lui assigne → la plus radicale, la gardienne du code, ou celle qui le brise.
+- **Annie**, la plus jeune, sensible, qui veut que tout le monde s'entende → celle qui n'a pas d'avis dans le débat sur les grenades, celle qui pleure, celle qui part, ou celle qui tient tout le monde ensemble.
+- **Dagobert**, le chien, le cinquième membre.
+
+### 💡 Le cinquième membre : l'IA ?
+- Dans le Club des Cinq, il y a quatre enfants et un chien. Ici : **quatre jeunes et une IA**. Fidèle, toujours là, qui flaire ce que les autres ne voient pas (la prophétie), qui obéit… jusqu'à un certain point.
+- Running gag possible dans le chat : « On est que quatre. » / « Et l'IA, elle compte pas ? »
+- Le surnom de l'IA pourrait être **Dagobert** (ou un clin d'œil moins explicite).
+- Et le moment où « Dagobert » ne sait pas répondre (la probabilité du soulèvement) devient le moment où le chien perd la piste.
+
+### 💡 L'Oncle Henri
+- Dans les livres, l'oncle Henri est un savant distrait, absorbé par son travail, dont les **formules secrètes** attirent les voleurs.
+- C'est exactement **le père dans la cybersécurité** : un adulte absorbé, qui détient des secrets précieux, et dont l'enfant connaît le mot de passe.
+
+### Clins d'œil possibles
+- Les **noms successifs du groupe WhatsApp** façon titres de la série : « Le Club des Cinq et la vitrine », « Le Club des Cinq contre les casseurs », « Le Club des Cinq va voter »… (l'ironie s'assombrit avec les titres)
+- Le **QG secret** (l'île de Kernach) → un lieu à eux : atelier, garage, appartement, cabane.
+- Les **goûters** et pique-niques → les kebabs, les apéros, les pizzas à 2 h du matin.
+- Les **adultes aveugles** → ici, des adultes usés (le cheminot), compromis ou en conflit (le flic de gauche), absorbés (le père cyber).
+- Un titre pour la nouvelle elle-même ?
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
