@@ -699,6 +699,41 @@ Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 
 ---
 
+## 2 decies. Principes de narration et ouverture
+
+### ✅ Décisions (Julien)
+- **Toutes les options restent ouvertes** sur les personnages à ce stade. On a **4 profils contrastés** : Victor, Rayan, Nour, Zoé.
+- **Pas de tension sexuelle pour l'instant**, mais pas exclu plus tard. Possible qu'un ou une ait un·e petit·e ami·e (hors du groupe ?). On verra plus tard.
+- **Ils ne se voient pas tous les jours.** Ils se retrouvent pour **une soirée** organisée par l'un d'eux, ou **pour une manif**. Le reste du temps : le chat.
+- **L'histoire commence un lendemain de manif.**
+- **On ne révèle pas tout sur eux tout de suite.** La narration glisse des éléments au fur et à mesure. Pas d'exposition pressée, pas de fiche personnage déguisée en dialogue.
+
+### Le lendemain de manif suffit-il pour les introduire ? Oui, grâce au format
+- Le groupe **existe déjà** (depuis le SNU) : le lecteur arrive au milieu d'une amitié en cours. Pas besoin de présentations, ils se connaissent, ils ne s'expliquent rien entre eux. C'est au lecteur de recoller les morceaux.
+- **In medias res** : le chat du lendemain est plein de références que le lecteur ne comprend pas encore (une blague d'il y a six mois, un surnom, « comme au SNU »). Ça crée de la curiosité au lieu de l'ennui.
+- Le lendemain de manif est un moment idéal : **chacun réagit à sa façon** à la même journée (qui a été gazé, qui est rentré tard, qui a renvoyé une grenade, qui s'est fait engueuler par ses parents, qui a raté son train). Les caractères apparaissent par les réactions, pas par les descriptions.
+
+### Techniques pour distiller les infos
+- **Les surnoms avant les prénoms** (« le marquis » pour Victor). Le lecteur devine.
+- **Les détails en passant** : « train supprimé » (Nour habite loin), un message à 4 h 30 (Zoé), un juron toutes les deux lignes (Victor), un « bien rentré ? » à tout le monde (Rayan).
+- **Les documents intercalés** révèlent ce que les personnages ne disent pas (l'article sur le frère de Rayan).
+- **Les photos décrites** (« [photo] ») : le lecteur imagine sans tout voir.
+- **Ce qu'ils ne disent pas** compte autant que ce qu'ils disent : un silence, un message supprimé, un vocal pas retranscrit.
+
+### 💡 Le lecteur tombe dans le même piège que les personnages
+- Le motif du groupe, c'est que **chacun est l'inverse de ce qu'on suppose**. La narration peut faire subir ce malentendu **au lecteur** :
+  - les autres chambrent Nour sur « sa cité », le lecteur y croit… jusqu'à la photo du jardin ;
+  - Victor jure comme un charretier, le lecteur l'imagine de banlieue… jusqu'au « 16ᵉ » ;
+  - Rayan rit des blagues sur les flics, le lecteur rit avec lui… jusqu'à l'article ;
+  - « la dev » : le lecteur imagine un garçon des villes… jusqu'aux vaches.
+- Le lecteur découvre ses propres préjugés en même temps que le sujet de la nouvelle. **La forme dit le fond.** C'est la meilleure justification pour révéler lentement.
+
+### Ouverture possible
+- Le **chat du lendemain** : « Bien rentrés ? », les yeux qui piquent, les photos floues, une vidéo qui tourne sur les réseaux, et très vite **le débat sur les grenades renvoyées** (Nour l'a fait, quelqu'un n'est pas d'accord). Puis un extrait de presse sur « les violences en marge du cortège ». Puis la blague : « Mais que fait Spiderman ? ».
+- Tout le premier arc (désaccord → blague → « en vrai c'est pas si con ») peut se jouer **avant la soirée suivante**, qui sera la première scène « en vrai » où ils se retrouvent.
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
