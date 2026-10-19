@@ -566,6 +566,21 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 → Le groupe principal en prendra 4 ou 5. Les autres serviront aux personnages secondaires : les amis recrutés pour une action, le casseur piégé par erreur, un frère ou une sœur, le groupe WhatsApp « d'en face », l'ex de quelqu'un, le camarade de lycée qui balance.
 
+### ✅ Premier personnage : Victor (Julien)
+- Vient des **beaux quartiers**, du **16ᵉ arrondissement**.
+- **Il n'en a pas les manières** : c'est celui qui dit le plus de jurons du groupe.
+- **Déjà le rebelle de sa famille.**
+- Il **se fait chambrer** par les autres parce qu'il vient du 16ᵉ (« Victor du 16 », « le marquis », « Monsieur le comte »…).
+
+**Pistes qui en découlent (à valider)**
+- **C'est sans doute le fils du père cyber**, l'« oncle Henri » : le parent absorbé par son travail, dans un grand appartement du 16ᵉ, avec le Mac sur le bureau. Victor connaît le mot de passe. Sa rébellion contre sa famille donne une raison intime de franchir la ligne, et une raison intime d'hésiter.
+- **Archétype** : entre Mick (le casse-cou) et Claude (la rebelle qui refuse le rôle qu'on lui assigne). Il refuse d'être « du 16ᵉ » comme Claude refusait d'être une fille.
+- **Le paradoxe du chambrage** : il en fait trop dans le vulgaire pour prouver qu'il n'est pas un bourgeois, et les autres le chambrent justement pour ça. Mais **les codes du 16ᵉ, il les a**, même s'il les déteste : il sait se tenir dans un gala, parler à un directeur, porter un costume. Quand le groupe aura besoin d'entrer quelque part, c'est lui qu'on enverra, et il détestera ça. Moment drôle : Victor obligé de redevenir poli.
+- **Dans le chat** : beaucoup de jurons, peu de fautes (ou des fautes faites exprès ?), des messages vocaux énervés.
+- **Ce qu'il risque** : il est le seul à avoir un filet de sécurité (avocats, réseau, argent). Les autres le savent. « Toi, au pire, ton père appelle quelqu'un. » Tension de classe dans le groupe, surtout quand les ennuis arrivent.
+
+**⚠️ Géographie à trancher** : le 16ᵉ place au moins une partie du groupe à **Paris**, alors que le témoignage du cheminot poussait vers la **province**. Options : groupe parisien et parent cheminot en province (vacances, visites, appels) ; Victor envoyé dans un internat ou un lycée en province ; groupe mixte qui s'est formé ailleurs (manif, réseaux, colonie de vacances).
+
 ### Les archétypes, revisités (pour plus tard, quand on fera le « qui »)
 Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 - **François**, l'aîné, le chef raisonnable → celui qui organise, rassure, et qui craque le plus tard (le sérieux qui dit « et pourquoi pas ? »).
