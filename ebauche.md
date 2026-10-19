@@ -591,10 +591,12 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Il se fait chambrer** parce qu'il est noir et qu'il va « forcément » passer pour une caillera et se faire taper par les flics.
 - **Il en rit aussi.**
 - **Secret** : personne ne le sait, mais **un de ses frères a subi une bavure policière** quelques années avant.
+- ✅ **Sensible mais pas introverti** : il **exprime ses émotions**, il **tient à ses amis**. Dans le chat, c'est lui qui demande « bien rentrés ? » et qui dit que **c'était cool de se voir**. Le cœur chaud du groupe.
+- → Ce qui rend son secret encore plus fort : **celui qui dit tout ce qu'il ressent ne dit jamais ça**. Le seul sujet sur lequel l'expansif se tait. Le lecteur peut le remarquer avant les autres.
 
 **Pistes qui en découlent (à valider)**
 - **Le miroir de Victor.** Les deux sont chambrés pour ce qu'ils sont censés être, et les deux sont l'inverse de leur cliché : le gosse du 16ᵉ qui jure comme un charretier, le gosse du 93 poli et doux. Leur amitié peut être le cœur du groupe : ils se comprennent sans le dire. Et Victor pourrait être le premier à apprendre le secret.
-- **Archétype** : Annie (la sensible, celle qui veut que tout le monde s'entende). Celui qui n'a pas d'avis dans le débat sur les grenades, ou qui dit juste « arrêtez de vous embrouiller ». Mais son silence a une raison que personne ne connaît.
+- **Archétype** : Annie (la sensible, celle qui veut que tout le monde s'entende), mais **en version expansive**. Dans le débat sur les grenades, c'est lui qui dit « arrêtez de vous embrouiller, on était trop bien hier ». Il parle de tout, sauf de la police : là, il blague, ou il change de sujet.
 - **Le rire comme armure.** Il rit des blagues sur les flics plus fort que les autres. Le lecteur peut sentir quelque chose avant de comprendre. Le jour où il ne rit pas, c'est un signal.
 - **Le secret et le format dossier (ironie dramatique)** : un extrait d'article ancien glissé entre deux pages de chat (« Saint-Denis : un jeune homme de 19 ans grièvement blessé lors d'une interpellation… ») avec le même nom de famille que Rayan. **Le lecteur apprend avant le groupe.** Chaque blague sur les flics dans le chat devient ensuite insupportable à lire.
 - **Pourquoi il est là.** Lui, plus que tout autre, a une raison de détester la police. Et pourtant il veut une voie non violente, il refuse la casse. C'est peut-être lui qui comprend le mieux que la violence de rue retombe toujours sur les mêmes : son frère, les gars du quartier.
