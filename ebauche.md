@@ -269,6 +269,9 @@ Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de comman
 3. **Il ouvre, regarde, ne prend rien.** Et ce qu'il voit change sa compréhension du système, sans pouvoir s'en servir puisqu'il ne peut pas le prouver sans tout avouer. Savoir sans pouvoir dire.
 4. **Le père découvre** que son fils connaît le mot de passe. Scène père-fils. Peut-être que le père en sait plus qu'on ne croit, ou qu'il a lui-même des doutes sur ce qu'il protège.
 
+**Décision (Julien)** : les héros **peuvent faire des choses illégales**. Sinon c'est trop lisse. Les interdits créent la tension.
+→ Le Mac du père n'est donc pas un fusil qu'on ne tire jamais. La question n'est plus « vont-ils oser ? », mais « qu'est-ce que ça va leur coûter ? ».
+
 **Prudence d'écriture** : rester littéraire sur la technique. L'intérêt, c'est le geste (le curseur sur le champ du mot de passe, la session qui s'ouvre), pas la méthode.
 
 ### La grande tentation : manipuler
@@ -505,6 +508,35 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 **4. L'enjeu pour le climax.** Si une grande partie des forces de l'ordre vote pour la favorite, que se passe-t-il quand le pays se soulève pacifiquement *contre* elle, avant le premier tour ? Qui maintient l'ordre, et quel ordre ? C'est une tension réaliste et inquiétante. Le flic de gauche peut être le grain de sable, ou la charnière.
 
 **5. Prudence d'écriture.** Ne pas faire « tous les flics sont d'extrême droite », ni l'inverse. Le témoignage parle d'une évolution, pas d'une généralité. Garder des policiers aux profils variés, comme les syndiqués.
+
+---
+
+## 2 octies. Principe : des héros qui franchissent des lignes
+
+> Décision de Julien : les héros font des choses illégales. Trop lisse sinon. Les interdits font la tension.
+
+### Légal ≠ légitime
+- Leur code n'est pas la loi, c'est **leur** morale. Ils peuvent enfreindre la loi en respectant leur code, et respecter la loi en trahissant leur code (l'option dangereuse : rien d'illégal, mais ils jouent à Dieu).
+- Lupin aussi était hors-la-loi. Ce qui le rendait aimable, c'était son élégance et ses limites, pas sa légalité.
+
+### Une échelle des interdits (qui monte avec l'histoire)
+1. **Petites transgressions** : masques en manif, renvoyer les grenades, filets, peinture, entrave. Violences en réunion, en théorie.
+2. **Le piège** : enfermer des casseurs. Séquestration, c'est sérieux.
+3. **L'intrusion** : le Mac du père, l'accès à des systèmes protégés. Pénalement lourd, et trahison intime.
+4. **La manipulation** : l'option dangereuse. Peut-être légale, mais la ligne morale la plus grave.
+
+→ Chaque palier doit **coûter** quelque chose : un membre qui part, un père mis en danger, une enquête qui se rapproche, une amitié brisée, un innocent touché.
+
+### Qui franchit quoi
+- Tous ne franchissent pas les mêmes lignes. Les désaccords sur *quelle* ligne est acceptable sont un moteur du groupe (celui qui accepte la casse mais pas le mensonge, celui qui accepte le piratage mais pas la violence, etc.).
+- Le code peut évoluer, se fissurer, être réécrit dans le chat. Une règle qu'on raye. Une règle qu'on ajoute après une erreur.
+
+### La tension policière
+- Plus ils franchissent de lignes, plus l'enquête avance. Le flic de gauche peut être celui qui comprend, de l'intérieur, qui ils sont.
+- Le format dossier s'y prête : les PV, les réquisitions, les extraits d'enquête intercalés montrent au lecteur que l'étau se resserre, pendant que le chat continue, insouciant.
+
+### Ce qui reste hors-champ (choix d'écriture)
+- Les gestes techniques restent **littéraires** : on montre la tension, la session qui s'ouvre, la sueur, pas la méthode. Ça sert le réalisme (le lecteur y croit) sans transformer la nouvelle en manuel, et c'est de toute façon plus fort dramatiquement.
 
 ---
 
