@@ -548,6 +548,18 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **L'esprit** : une bande soudée, des aventures, des enquêtes, des adultes qui ne voient rien, des « méchants » à démasquer, des repas partagés. Mais l'aventure est réelle, les dangers aussi, et l'innocence se perd en route.
 - **L'arc du ton** colle parfaitement : on démarre en Enid Blyton (décalé, joyeux, un peu naïf) et on finit en roman noir.
 
+### ⚠️ Génération (Julien) : nés entre 2007 et 2010
+- Ils ont donc **16 à 19 ans** au moment de l'histoire (2026-2027). Plus jeunes que dans la v1 : lycée, bac, BTS, première année de fac, apprentissage, premier job.
+- Les prénoms doivent être ceux de cette génération (François, Mick, Claude, Annie = uniquement les archétypes des livres, pas leurs prénoms).
+- **Conséquence forte pour l'intrigue** : à la présidentielle d'avril 2027, ceux nés en 2007-2008 votent pour la première fois ; ceux nés en 2009 seulement s'ils ont 18 ans avant le 1ᵉʳ tour ; ceux nés en 2010 **ne votent pas**. Un membre du groupe qui veut changer une élection à laquelle il n'a pas le droit de voter. (Dates exactes à vérifier.)
+- Cohérence avec les parents : nés vers 1970-1985, ils avaient 20-30 ans dans les années 2000. Le parent cheminot syndiqué « petit syndicaliste dans les années 2000 » colle parfaitement.
+- Le titre de « Club des Cinq » prend aussi plus de sens : ce sont presque encore des ados.
+
+**Prénoms plausibles pour des naissances 2007-2010** (parmi les plus donnés en France à l'époque, à vérifier sur les données INSEE, et à choisir selon le milieu social et l'origine de chacun) :
+- Garçons : Lucas, Enzo, Nathan, Mathis, Hugo, Théo, Louis, Gabriel, Jules, Raphaël, Arthur, Tom, Noah, Ethan, Yanis, Rayan, Adam, Mohamed, Evan, Léo, Axel, Matteo, Timéo, Kylian, Malo, Baptiste, Maxime.
+- Filles : Emma, Léa, Chloé, Manon, Inès, Camille, Jade, Clara, Lola, Sarah, Zoé, Lilou, Lina, Louise, Lou, Maëlys, Océane, Anaïs, Romane, Eva, Juliette, Yasmine, Nour, Maïwenn.
+- Les prénoms disent aussi le milieu : un Louis et un Rayan ne viennent pas forcément du même quartier, et c'est une richesse pour le groupe (et pour le WhatsApp : orthographe, codes, humour différents).
+
 ### Les archétypes, revisités (pour plus tard, quand on fera le « qui »)
 Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 - **François**, l'aîné, le chef raisonnable → celui qui organise, rassure, et qui craque le plus tard (le sérieux qui dit « et pourquoi pas ? »).
