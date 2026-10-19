@@ -579,7 +579,22 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Dans le chat** : beaucoup de jurons, peu de fautes (ou des fautes faites exprès ?), des messages vocaux énervés.
 - **Ce qu'il risque** : il est le seul à avoir un filet de sécurité (avocats, réseau, argent). Les autres le savent. « Toi, au pire, ton père appelle quelqu'un. » Tension de classe dans le groupe, surtout quand les ennuis arrivent.
 
-**⚠️ Géographie à trancher** : le 16ᵉ place au moins une partie du groupe à **Paris**, alors que le témoignage du cheminot poussait vers la **province**. Options : groupe parisien et parent cheminot en province (vacances, visites, appels) ; Victor envoyé dans un internat ou un lycée en province ; groupe mixte qui s'est formé ailleurs (manif, réseaux, colonie de vacances).
+**✅ Précisions (Julien)**
+- C'est **son père, directement**, qui travaille dans la cybersécurité (« oncle Henri » n'était que le clin d'œil au Club des Cinq). Plus crédible.
+- Victor est **la source d'argent** quand le groupe en a besoin. **Facilité de scénario à ne pas abuser** : une ou deux fois, et chaque fois que ça arrive, ça doit coûter quelque chose (une dispute, un mensonge à ses parents, une humiliation, une dette morale, un « toi au pire ton père paie »). Et ça frotte avec la règle « on ne garde rien » : l'argent entre, il ne sort jamais pour eux.
+
+---
+
+### ✅ Géographie (Julien) : un groupe francilien
+- **Île-de-France.** Certains sont de Paris (Victor, 16ᵉ), d'autres **banlieusards**.
+- Ils se connaissent par **copains de copains**, ou se sont **rencontrés au SNU** (Service national universel) ou quelque chose du genre.
+
+**Pistes**
+- **Le SNU, c'est une ironie en or** : un dispositif de l'État pour créer de la « cohésion » chez les jeunes (uniforme, levée des couleurs, Marseillaise, vie en groupe). Ils y apprennent la cohésion… et s'en servent pour monter un commando. Le SNU leur a appris à marcher en rang, ils marchent en rang dans la manif. (À vérifier : l'état actuel du SNU, généralisé ou abandonné, et l'âge des participants, en principe 15-17 ans, ce qui colle avec des naissances 2007-2010.)
+- Le séjour de cohésion mélange volontairement des jeunes de milieux et de départements différents : c'est la seule raison crédible pour qu'un Victor du 16ᵉ rencontre un Rayan de Seine-Saint-Denis. Leur amitié est née d'un programme d'État, c'est savoureux.
+- **Le groupe WhatsApp a pu naître au SNU** (un groupe de chambrée ou de « maisonnée »), et garder son nom d'origine au début.
+- Géographie sociale : le RER comme frontière et comme lien (qui met combien de temps pour venir, qui rate le dernier train, qui dort chez qui).
+- **Le cheminot devient francilien** : il peut travailler sur le RER ou le Transilien, et habiter en banlieue. Le témoignage (manifs de province dans les années 2000) devient son passé : il a été muté en Île-de-France, ou il en parle comme de « avant ».
 
 ### Les archétypes, revisités (pour plus tard, quand on fera le « qui »)
 Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
