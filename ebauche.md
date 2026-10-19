@@ -390,6 +390,64 @@ S'ils font baisser *toutes* les têtes de liste, **à qui profite le vide** ?
 
 ---
 
+## 2 sexies. Matériau : témoignage d'un cheminot syndicaliste
+
+> Source : témoignage transmis par Julien (cheminot, de gauche, ancien syndiqué, a organisé des manifs dans des villes moyennes de province). **À ne pas reprendre tel quel** : à utiliser comme information. Ce qui suit est une synthèse. C'est *un* point de vue, précieux parce que vécu, à croiser avec d'autres.
+
+### Ce qu'il raconte
+**La manif « d'avant » (années 2000)**
+- En tête, la banderole portée par les chefs des syndicats, partout en France.
+- Puis les syndicats défilent **par ordre de taille**.
+- Des **services d'ordre**, des troupes cadrées, qui obéissent aux mots d'ordre de la fédération.
+- En queue de cortège, « les nanards » (les anarchistes) : drapeaux rouge et noir, avec des chats dessus. Faciles à reconnaître.
+- Parfois de la casse, mais **à la fin**, quand les syndiqués étaient déjà dans les bus pour rentrer.
+
+**Le basculement (à partir de Sarkozy, selon lui)**
+- Le pouvoir ne répond plus jamais positivement : il **laisse pourrir**. Les syndicats s'affaiblissent.
+- En même temps, ceux de la queue passent **en tête**. Apparition (surtout médiatique) des black blocs.
+- Technique reprise par Hollande (loi El Khomri) puis, encore plus, par Macron. Dans les entreprises à fort pouvoir syndical comme la SNCF, ça a affaibli leur capacité. S'y ajoute la création du **CSE** par Macron.
+
+**Le rapport des syndiqués aux casseurs**
+- Ils ne les aiment pas : ça bloque le cortège, ça fait pleuvoir les lacrymos, ils s'en prennent même au service d'ordre syndical.
+- **Mais** certains disaient : puisque le pouvoir ne nous écoute pas, c'est normal que les gens se révoltent. → Ambivalence.
+- Les black blocs ont **brouillé le message** : à la télé, une heure de casse en direct pour cinq minutes de revendications. « Madame Michu » voit le McDo en feu, ne comprend pas, et vote pour ceux qui promettent l'ordre.
+
+**À qui profitent les casseurs**
+- « Jamais utiles au syndicalisme. » Utiles à **deux partis** : l'un pour mettre le bordel et plaire à son électorat, l'autre pour dénoncer le bordel et promettre l'ordre.
+
+**La suite**
+- Les syndicats n'ont pas vu venir les **gilets jaunes** : un mouvement populaire, avec lui aussi une frange violente, qu'ils n'ont jamais pu récupérer.
+- En affaiblissant les syndicats, le pouvoir s'est pris un retour de bâton.
+- Sa conviction : **le syndicalisme est un contre-pouvoir essentiel**, malgré ses défauts (« et Dieu sait qu'il en a »). Les mouvements actuels, portés par un parti, n'existent que parce que les syndicats ne « gèrent » plus les manifs. Les politiques ont voulu se passer des syndicats, et on en paie le prix.
+
+### Ce que ça change pour notre histoire
+
+**1. Ça nuance la piste « rengaine » (section 2 ter), et c'est tant mieux.**
+Nos jeunes pensent que les syndicats sont complices du rituel. Le témoignage dit autre chose : le rituel a été **cassé par le pouvoir**, qui a appris à attendre que ça pourrisse. Les syndicats ne sont pas de mèche : ils sont **affaiblis**, et le vide a été rempli par la casse et par les partis.
+→ Les deux visions peuvent s'affronter dans le récit. Les jeunes voient des syndicats inutiles. L'ancien répond : « C'est pas nous qui sommes inutiles, c'est qu'on nous a désarmés. Et vous, vous êtes arrivés après. »
+
+**2. Le parent syndicaliste a trouvé sa voix.**
+Cheminot, ville moyenne de province, syndiqué depuis les années 2000. Il a connu la manif cadrée, les bus du retour, les nanards en queue, puis le pourrissement. Il est de gauche et il l'assume, il déteste les casseurs, et il comprend quand même la colère. Lucide, pas cynique. Il porte l'histoire longue que les jeunes n'ont pas.
+
+**3. La scène qui s'impose : « Vous avez réinventé le service d'ordre. »**
+Quand les jeunes lui racontent fièrement leur commando anti-casseurs (cohésion, rôles, signaux), le parent éclate de rire. C'est exactement ce que faisaient les SO syndicaux il y a vingt ans. Ils croyaient innover, ils ont redécouvert ce que le système avait laissé mourir. C'est drôle, puis ça les fait réfléchir : ce qui a été détruit avait peut-être une fonction.
+
+**4. La récupération à deux bandes est confirmée par le terrain.**
+Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre promet l'ordre. Ça rejoint l'arc électoral : la vitrine du début, c'est déjà un clip de campagne pour quelqu'un.
+
+**5. « Madame Michu devant sa télé »** : la figure de l'électeur qui ne comprend pas et vote pour l'ordre. Elle peut devenir une **cible du groupe au sens positif** : à qui parlent-ils vraiment ? Pas aux militants, à elle. Tous leurs coups (prophétie, programmes lisibles) devraient être compréhensibles par Madame Michu, sinon ça ne sert à rien. Ça peut devenir une règle interne, ou un running gag (« Ça passe le test Michu ? »).
+
+**6. Les gilets jaunes comme précédent du soulèvement.** Un mouvement que personne n'a convoqué, qu'aucun syndicat n'a vu venir ni pu récupérer. C'est un précédent réel pour le soulèvement du climax, avec ses limites (la violence, l'essoufflement, la récupération par les extrêmes). Les personnages doivent faire mieux que les gilets jaunes, et le savent.
+
+**7. Texture pour l'écriture** : drapeaux rouge et noir avec des chats, les bus du retour, l'ordre des cortèges, le vocabulaire (« nanards », « SO », « fédé », « mots d'ordre »). Ça plaide aussi pour situer une partie de l'histoire **en province**, dans une ville moyenne, plutôt que tout à Paris. Plus original, plus proche de la France de Madame Michu.
+
+### À vérifier / croiser
+- Chronologie : réforme des retraites 2010 (grande mobilisation, réforme adoptée), apparition du « cortège de tête » (vers 2016, loi Travail), ordonnances de 2017 et création du CSE, gilets jaunes (2018-2019), retraites 2023.
+- Taux de syndicalisation, évolution des services d'ordre syndicaux.
+- Autres témoignages : un ancien du cortège de tête, un policier de maintien de l'ordre, un journaliste de chaîne d'info (le ratio « une heure de casse pour cinq minutes de revendications »).
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
