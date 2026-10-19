@@ -119,6 +119,12 @@ Variante : ils ne renoncent pas, ils **détournent** leur savoir-faire de comman
 - Celui qui dit « pourquoi pas ? » : de préférence **le plus inattendu**, le sérieux, le rationnel, celui qui ne plaisante jamais. C'est parce que c'est *lui* que les autres s'arrêtent. Et peut-être plusieurs heures après, au milieu d'une autre conversation : « Au fait. Le truc des filets. En vrai, pourquoi pas ? »
 - Variante : celui qui renvoyait les grenades et celui qui était contre se retrouvent d'accord sur cette idée, chacun pour de mauvaises raisons.
 
+**💡 Idée de Julien (à garder) : « Mais que fait Spiderman ? »**
+- Pendant/après la manif, face aux casseurs, un des jeunes lâche en plaisantant : **« Mais que fait Spiderman ? »**
+- Rires, on passe à autre chose.
+- Un peu plus tard (heures ou jours), un autre : **« Mais en vrai… c'est pas si con, son idée de Spiderman. »**
+- → C'est l'origine de l'idée du filet. Ce qui était une vanne devient un plan. Le nom « Spiderman » peut rester comme nom de code (du filet, de l'opération, voire du groupe), et revenir plus tard, quand ça ne fait plus rire.
+
 **Comment ils convainquent les autres** (étapes, chacune peut être une scène) :
 1. Le sondage WhatsApp : « On devient des super-héros ? Oui / Non / Seulement si on a des costumes ». Les résultats sont serrés et absurdes.
 2. Le sérieux fait une vraie présentation, avec un document partagé, des chiffres et une analyse des vidéos de la dernière manif. Décalage total entre son sérieux et l'idée de départ.
