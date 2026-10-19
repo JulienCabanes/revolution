@@ -448,6 +448,39 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 ---
 
+## 2 septies. Matériau : témoignage d'un policier
+
+> Source : interview vue par Julien. Un policier, fils de policier, qui se dit de gauche. Sincérité apparente, **véracité à vérifier**. Synthèse, pas de reprise telle quelle.
+
+### Ce qu'il dit
+- **Avant**, les policiers d'extrême droite étaient mis à l'écart. **Aujourd'hui**, c'est devenu monnaie courante.
+- Les policiers sont **plus armés** qu'avant.
+- Avant, ils cherchaient à **discuter avec les gars des quartiers**.
+
+### Ce qu'on peut vérifier, et qui va dans son sens (à confirmer)
+- **La fin de la police de proximité** (supprimée en 2003 sous Sarkozy ministre de l'Intérieur, avec la phrase restée célèbre sur les policiers qui ne sont pas là pour « organiser des matchs de rugby »). C'est exactement le « avant on discutait ».
+- **L'armement du maintien de l'ordre** : généralisation du Flash-Ball puis du LBD, grenades, création d'unités mobiles (BRAV-M en 2019), nouveau schéma national du maintien de l'ordre (2020). Nombreuses blessures graves pendant les gilets jaunes.
+- **Le vote des policiers** : plusieurs études (CEVIPOF, IFOP) ont estimé un vote RN très élevé chez les policiers et militaires. Chiffres et méthodologie à vérifier.
+- Contre-points à chercher : syndicats de police, policiers qui contestent ce tableau, travaux de sociologues de la police.
+
+### Ce que ça apporte à l'histoire
+
+**1. Un miroir du cheminot.** Même génération, même structure de récit : « avant, il y avait un milieu, on discutait ; ce milieu a été détruit ». Le syndicaliste a perdu ses services d'ordre et son pouvoir de négocier. Le policier a perdu la proximité et le dialogue. **Des deux côtés de la barricade, c'est le même pourrissement** : la discussion remplacée par la force. C'est peut-être le vrai sujet souterrain de la nouvelle.
+
+**2. Un personnage possible : le flic de gauche, fils de flic.**
+- Il peut être celui qui **enquête** sur le groupe, et qui les comprend mieux que personne.
+- Ou celui qui les **approche** pour « collaborer » après le coup anti-casseurs (la tentation notée en 2 bis), mais pour de bonnes raisons, ce qui rend la tentation plus forte.
+- Ou un parent : le père d'un des membres. Deux pères, un cheminot et un flic, qui se seraient affrontés dans les manifs de leur jeunesse, et dont les enfants sont dans le même groupe WhatsApp.
+- Il est minoritaire, isolé dans son propre corps. Comme les jeunes, il ne se reconnaît dans aucun des deux camps qu'on lui propose.
+
+**3. Le lien avec Karim (le LBD).** L'armement n'est pas un décor : un des membres en porte la trace. Le flic de gauche peut être celui qui le lui dit en face : « Avant, on n'avait pas ça. »
+
+**4. L'enjeu pour le climax.** Si une grande partie des forces de l'ordre vote pour la favorite, que se passe-t-il quand le pays se soulève pacifiquement *contre* elle, avant le premier tour ? Qui maintient l'ordre, et quel ordre ? C'est une tension réaliste et inquiétante. Le flic de gauche peut être le grain de sable, ou la charnière.
+
+**5. Prudence d'écriture.** Ne pas faire « tous les flics sont d'extrême droite », ni l'inverse. Le témoignage parle d'une évolution, pas d'une généralité. Garder des policiers aux profils variés, comme les syndiqués.
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
