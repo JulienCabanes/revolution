@@ -585,6 +585,31 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 ---
 
+### ✅ Deuxième personnage : Rayan (Julien)
+- Jeune **noir**, de **Saint-Denis (93)**.
+- **Adorable**, **super bien élevé**, **doux et sensible**.
+- **Il se fait chambrer** parce qu'il est noir et qu'il va « forcément » passer pour une caillera et se faire taper par les flics.
+- **Il en rit aussi.**
+- **Secret** : personne ne le sait, mais **un de ses frères a subi une bavure policière** quelques années avant.
+
+**Pistes qui en découlent (à valider)**
+- **Le miroir de Victor.** Les deux sont chambrés pour ce qu'ils sont censés être, et les deux sont l'inverse de leur cliché : le gosse du 16ᵉ qui jure comme un charretier, le gosse du 93 poli et doux. Leur amitié peut être le cœur du groupe : ils se comprennent sans le dire. Et Victor pourrait être le premier à apprendre le secret.
+- **Archétype** : Annie (la sensible, celle qui veut que tout le monde s'entende). Celui qui n'a pas d'avis dans le débat sur les grenades, ou qui dit juste « arrêtez de vous embrouiller ». Mais son silence a une raison que personne ne connaît.
+- **Le rire comme armure.** Il rit des blagues sur les flics plus fort que les autres. Le lecteur peut sentir quelque chose avant de comprendre. Le jour où il ne rit pas, c'est un signal.
+- **Le secret et le format dossier (ironie dramatique)** : un extrait d'article ancien glissé entre deux pages de chat (« Saint-Denis : un jeune homme de 19 ans grièvement blessé lors d'une interpellation… ») avec le même nom de famille que Rayan. **Le lecteur apprend avant le groupe.** Chaque blague sur les flics dans le chat devient ensuite insupportable à lire.
+- **Pourquoi il est là.** Lui, plus que tout autre, a une raison de détester la police. Et pourtant il veut une voie non violente, il refuse la casse. C'est peut-être lui qui comprend le mieux que la violence de rue retombe toujours sur les mêmes : son frère, les gars du quartier.
+- **Le danger concret.** Dans le commando anti-casseurs, c'est lui que les flics risquent d'interpeller en premier, qu'on prendra pour un casseur s'il porte un filet. Les autres en plaisantent… jusqu'au jour où ça arrive. Scène possible : la blague du chat devient réalité.
+- **Le lien avec les autres fils.** Le flic de gauche (« avant, on discutait avec les gars des quartiers ») ; le LBD ; le jeune blessé de la v1 (si on garde un blessé, est-ce Rayan, son frère, ou personne ?).
+- **La révélation** : quand et comment le groupe l'apprend. Un vocal à 3 h du matin ? Une dispute ? Un parent qui en parle ? Victor qui tombe sur l'article ? Et que fait le groupe des blagues d'avant ?
+
+**À préciser plus tard**
+- La famille : origines, combien de frères et sœurs, les parents (métiers, religion, rapport à la police, à la politique, au vote).
+- Ce qui est arrivé exactement au frère (blessé, handicapé, mort ? procès, non-lieu ?) et où il en est aujourd'hui. Références réelles à garder à distance mais à connaître (affaires Adama Traoré en 2016, Théo Luhaka en 2017, Nahel en 2023).
+- Ce que Rayan aime, ce qu'il veut faire de sa vie : pour qu'il ne soit pas défini que par son secret.
+- Prénom : Rayan est d'origine arabe, porté aussi dans des familles d'Afrique de l'Ouest musulmanes ou des Comores. À cohérer avec son histoire familiale.
+
+---
+
 ### ✅ Géographie (Julien) : un groupe francilien
 - **Île-de-France.** Certains sont de Paris (Victor, 16ᵉ), d'autres **banlieusards**.
 - Ils se connaissent par **copains de copains**, ou se sont **rencontrés au SNU** (Service national universel) ou quelque chose du genre.
