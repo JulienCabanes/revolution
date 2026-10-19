@@ -619,6 +619,9 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - À **presque 1 h de Paris**, dans une ville que personne ne connaît, **genre Us** (Val-d'Oise, dans le Vexin).
 - **Pas rebelle** : c'est **la casse-cou, la sportive**. Elle s'ennuyait dans sa banlieue, alors elle a fait du **parkour** ou des trucs comme ça. Elle fait de **l'athlétisme** ou quelque chose du genre.
 - Fille de serrurier : piste encore ouverte.
+- ✅ **C'est elle la chambreuse du groupe.** Elle se moque de Rayan parce qu'il est noir (« tu vas te faire contrôler », « avec ta tête, t'es le casseur sur BFM »)… alors qu'elle est **rebeu et en jogging tous les jours**. Elle jure que c'est **pour l'athlétisme**.
+- → **Le jogging explique le malentendu** : c'est à cause de son look que les autres sont persuadés qu'elle vient de cité. Elle chambre Rayan sur les clichés, et c'est elle qui les alimente le plus. Personne ne le lui fait remarquer… sauf peut-être Victor, qui chambre aussi.
+- → **Ce que ça prépare** : c'est elle qui fait le plus de blagues sur Rayan et les flics. Le jour où le secret du frère sort, c'est **elle qui aura le plus de mal à se le pardonner**. Leur relation est un des fils émotionnels forts de l'histoire (chambrage = affection, puis culpabilité, puis quelque chose de plus solide).
 
 **Pistes qui en découlent (à valider)**
 - **Le motif du malentendu se confirme** : Victor (on le croit bourgeois, il jure), Rayan (on le croit caillera, il est doux), Nour (on la croit de cité, elle a un jardin). **Chacun est l'inverse de ce qu'on suppose.** Ça peut devenir le principe secret du groupe… et leur arme : personne ne les voit tels qu'ils sont, donc personne ne les voit venir. C'est très Lupin.
