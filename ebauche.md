@@ -630,6 +630,31 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 ---
 
+**✅ Décision (Julien)** : Nour garde **les serrures ET l'agilité**. C'est **elle qui s'introduit en douce dans les bâtiments**. Elle est le Lupin du groupe au sens propre : celle qui entre.
+
+---
+
+### ✅ Quatrième personnage : Zoé (Julien)
+- Vient de **Normandie**, d'une **famille de paysans**.
+- Son truc : **l'informatique**. → C'est **la dev du groupe** (celle qui fait le hacking informatique, retrace l'historique syndical, et fait parler l'IA).
+
+**On y croit ? Oui, et c'est même une force**, à quelques conditions :
+- **L'agriculture est un métier très technologique** : robots de traite, tracteurs guidés par GPS, capteurs, logiciels de gestion, drones, déclarations PAC en ligne. Elle peut avoir commencé gamine en dépannant le robot de traite ou le logiciel de la ferme, puis en bricolant le vieux PC familial. Origine concrète, crédible, et pas cliché.
+- **Internet comme fenêtre** : dans un village où il ne se passe rien, le réseau, c'est l'évasion. Forums, Discord, tutos, CTF (compétitions de hacking éthique). Beaucoup de développeurs viennent de la campagne pour cette raison.
+- **Pourquoi elle est en Île-de-France** : études. BTS SIO, IUT informatique, fac, ou **l'école 42** (gratuite, sans condition de diplôme, qui attire des profils atypiques ; à vérifier). Elle loge en chambre de bonne, au CROUS, chez une tante. Et/ou rencontre au **SNU**, qui envoie volontairement les jeunes loin de leur région : c'est là que la Normande a rencontré les Franciliens.
+- **Le prénom Zoé** était très courant à sa génération, à la campagne aussi. Pas de problème.
+
+**Pistes qui en découlent (à valider)**
+- **Le motif du malentendu, encore** : on imagine le hacker en garçon des villes en sweat à capuche. C'est une fille de la campagne qui a grandi entre les vaches et les lignes de code.
+- **Une autre culture de la manif** : les **manifestations agricoles** (tracteurs, fumier devant les préfectures, pneus brûlés), souvent traitées avec beaucoup plus d'indulgence par les forces de l'ordre que les manifs de banlieue ou les cortèges syndicaux (à documenter, cf. mouvements de 2024). **Contraste fort avec Rayan** : deux poids, deux mesures. Zoé l'a vu de près, et ça peut la mettre mal à l'aise face à lui.
+- **La famille** : une ferme en difficulté (dettes, prix, normes, retraite agricole minuscule), un père ou une mère usés, peut-être tentés par le vote RN, comme beaucoup de campagnes. Ou au contraire une famille de paysans de gauche (Confédération paysanne). Conflit ou soutien.
+- **Le duo Victor / Zoé** : Victor a **l'accès** (le mot de passe du Mac du père), Zoé a **la compétence**. L'un sans l'autre ne peut rien. C'est une tension idéale : qui pousse qui à franchir la ligne ? Et la fille de paysans qui découvre ce que contient l'ordinateur d'un père du 16ᵉ.
+- **Son rapport à l'IA** : elle est la plus lucide sur ce que c'est (un outil, pas un oracle), et pourtant c'est elle qui s'y attache le plus. Le surnom « Dagobert » vient peut-être d'elle (le chien de ferme).
+- **Archétype** : François, le chef raisonnable ? Ou la sérieuse qui dit « et pourquoi pas ? » à l'idée de Spiderman. Elle qui ne plaisante jamais, et qui a les chiffres.
+- **Dans le chat** : messages longs et structurés, listes à puces, liens, captures d'écran de code ou de graphiques. Ou au contraire très laconique. Elle poste à des heures impossibles (4 h 30 : la traite, ou une nuit de code).
+
+---
+
 ### ✅ Géographie (Julien) : un groupe francilien
 - **Île-de-France.** Certains sont de Paris (Victor, 16ᵉ), d'autres **banlieusards**.
 - Ils se connaissent par **copains de copains**, ou se sont **rencontrés au SNU** (Service national universel) ou quelque chose du genre.
