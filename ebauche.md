@@ -582,7 +582,9 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 **✅ Victor organise les soirées (Julien)**
 - C'est **chez lui** qu'ont lieu les soirées. **Les parents sont souvent absents** (cliché assumé de la famille qui a de l'argent).
 - → **L'appartement du 16ᵉ devient le QG** du groupe, leur « île de Kernach ». Les scènes « en vrai » s'y passent : grand salon, vue, frigo plein, voisins qui se plaignent, gardien qui les regarde passer (surtout Rayan et Nour).
-- → **Le Mac du père est là, dans la pièce d'à côté**, à chaque soirée. La tentation n'est pas abstraite : il suffit d'ouvrir une porte. Fusil de Tchekhov accroché au mur du bureau.
+- ✅ **Un duplex.** Les soirées se passent à l'étage du haut ; **le bureau du père est à l'étage du dessous**.
+- → **Le Mac du père est juste en dessous**, à chaque soirée. La tentation n'est pas abstraite : il suffit de **descendre l'escalier**. Image forte et très visuelle : la musique et les rires en haut, le bureau silencieux et sombre en bas. Descendre, c'est littéralement franchir la ligne. Le jour où quelqu'un descend pendant que la fête continue au-dessus… (Fusil de Tchekhov au pied de l'escalier.)
+- → Petits détails possibles : la porte du bureau toujours fermée (mais pas à clé ? ou à clé, et Nour…), la lumière de veille du Mac, le bruit de la fête qui traverse le plafond, quelqu'un qui « va aux toilettes » et met trop longtemps.
 - → Contraste social immédiat pour les autres : Nour qui a mis 1 h 15 à venir, Rayan qui se fait regarder dans l'ascenseur, Zoé qui compare avec sa chambre étudiante. Victor qui en a honte et qui en fait trop.
 - → L'absence des parents, c'est aussi la solitude de Victor. La raison pour laquelle il organise des soirées, c'est peut-être d'abord pour ne pas être seul dans ce grand appartement.
 
