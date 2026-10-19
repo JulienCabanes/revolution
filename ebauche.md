@@ -610,6 +610,27 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 
 ---
 
+### ✅ Troisième personnage : Nour (Julien)
+- Vient d'une **banlieue plus lointaine** : **78 ou 95** (à choisir).
+- **Peut-être la fille du serrurier.**
+
+**Pistes qui en découlent (à valider)**
+- **Où exactement ?** Deux couleurs très différentes :
+  - grande banlieue « cité » : Mantes-la-Jolie, Les Mureaux, Trappes (78) ; Sarcelles, Garges, Villiers-le-Bel, Argenteuil (95) ;
+  - grande banlieue pavillonnaire ou semi-rurale : un lotissement près de Cergy, le Vexin, la vallée de la Seine. Les champs à vingt minutes, le dernier train à 23 h 40, le bus qui ne passe plus le dimanche.
+  → Dans les deux cas, **c'est celle qui vient de plus loin** : 1 h 15 de transports, la peur de rater le dernier train, celle qui dort chez les autres. La France périphérique dans le groupe, celle des gilets jaunes, de Madame Michu.
+- **La fille du serrurier** reprend un fil de la v1 (Malo) :
+  - Elle a grandi dans l'atelier, au milieu des clés. Elle sait ouvrir une porte, et surtout elle sait qu'on n'a presque **jamais besoin de forcer** : « Toujours comprendre, jamais forcer. »
+  - C'est elle qui rend le **piège de la boutique** possible (la porte qui se ferme), et plus tard tout ce qui demande d'**entrer quelque part**.
+  - Les **Arsène Lupin** du grand-père ou du père, dans l'atelier : c'est par elle qu'arrive la référence à Lupin dans le groupe.
+  - Le gilet orange, l'échelle, l'autorité de l'artisan : elle sait qu'un homme en tenue de travail passe partout. Elle, en tant que fille, ne passe pas inaperçue, ce qui l'agace et l'amuse.
+- **Le conflit intime possible** : un serrurier, ça ouvre aussi les portes **pour les huissiers, lors des expulsions**. Son père l'a fait, le fait encore, parce que c'est son métier et qu'il faut payer les factures. Nour le sait. Ça peut être sa blessure à elle, son « secret » à elle, et un lien avec le thème du logement s'il revient.
+- **Archétype** : Claude (Claudine), la rebelle aux mains dans le cambouis, qui refuse le rôle qu'on lui assigne, débrouillarde, têtue. Ou la gardienne du code.
+- **La famille** : un père artisan, petite entreprise, travailleur indépendant, ni syndiqué ni manifestant, peut-être même tenté par le vote RN (ou pas), ce qui serait une source de conflit à table. Prénom Nour : famille probablement d'origine maghrébine ou du Moyen-Orient. À cohérer.
+- **Dans le chat** : messages courts, pratiques, souvent depuis le RER (« je suis à Houilles », « train supprimé, 30 min de retard »). Le RER comme running gag.
+
+---
+
 ### ✅ Géographie (Julien) : un groupe francilien
 - **Île-de-France.** Certains sont de Paris (Victor, 16ᵉ), d'autres **banlieusards**.
 - Ils se connaissent par **copains de copains**, ou se sont **rencontrés au SNU** (Service national universel) ou quelque chose du genre.
