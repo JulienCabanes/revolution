@@ -611,23 +611,22 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 ---
 
 ### ✅ Troisième personnage : Nour (Julien)
-- Vient d'une **banlieue plus lointaine** : **78 ou 95** (à choisir).
-- **Peut-être la fille du serrurier.**
+- **Banlieue pavillonnaire**, pas de cité (on a déjà Rayan pour le 93).
+- Famille **maghrébine**, très bien intégrée, pas de voile.
+- **Les autres croient qu'elle habite en cité.** En fait, elle a **une maison avec jardin**.
+- À **presque 1 h de Paris**, dans une ville que personne ne connaît, **genre Us** (Val-d'Oise, dans le Vexin).
+- **Pas rebelle** : c'est **la casse-cou, la sportive**. Elle s'ennuyait dans sa banlieue, alors elle a fait du **parkour** ou des trucs comme ça. Elle fait de **l'athlétisme** ou quelque chose du genre.
+- Fille de serrurier : piste encore ouverte.
 
 **Pistes qui en découlent (à valider)**
-- **Où exactement ?** Deux couleurs très différentes :
-  - grande banlieue « cité » : Mantes-la-Jolie, Les Mureaux, Trappes (78) ; Sarcelles, Garges, Villiers-le-Bel, Argenteuil (95) ;
-  - grande banlieue pavillonnaire ou semi-rurale : un lotissement près de Cergy, le Vexin, la vallée de la Seine. Les champs à vingt minutes, le dernier train à 23 h 40, le bus qui ne passe plus le dimanche.
-  → Dans les deux cas, **c'est celle qui vient de plus loin** : 1 h 15 de transports, la peur de rater le dernier train, celle qui dort chez les autres. La France périphérique dans le groupe, celle des gilets jaunes, de Madame Michu.
-- **La fille du serrurier** reprend un fil de la v1 (Malo) :
-  - Elle a grandi dans l'atelier, au milieu des clés. Elle sait ouvrir une porte, et surtout elle sait qu'on n'a presque **jamais besoin de forcer** : « Toujours comprendre, jamais forcer. »
-  - C'est elle qui rend le **piège de la boutique** possible (la porte qui se ferme), et plus tard tout ce qui demande d'**entrer quelque part**.
-  - Les **Arsène Lupin** du grand-père ou du père, dans l'atelier : c'est par elle qu'arrive la référence à Lupin dans le groupe.
-  - Le gilet orange, l'échelle, l'autorité de l'artisan : elle sait qu'un homme en tenue de travail passe partout. Elle, en tant que fille, ne passe pas inaperçue, ce qui l'agace et l'amuse.
-- **Le conflit intime possible** : un serrurier, ça ouvre aussi les portes **pour les huissiers, lors des expulsions**. Son père l'a fait, le fait encore, parce que c'est son métier et qu'il faut payer les factures. Nour le sait. Ça peut être sa blessure à elle, son « secret » à elle, et un lien avec le thème du logement s'il revient.
-- **Archétype** : Claude (Claudine), la rebelle aux mains dans le cambouis, qui refuse le rôle qu'on lui assigne, débrouillarde, têtue. Ou la gardienne du code.
-- **La famille** : un père artisan, petite entreprise, travailleur indépendant, ni syndiqué ni manifestant, peut-être même tenté par le vote RN (ou pas), ce qui serait une source de conflit à table. Prénom Nour : famille probablement d'origine maghrébine ou du Moyen-Orient. À cohérer.
-- **Dans le chat** : messages courts, pratiques, souvent depuis le RER (« je suis à Houilles », « train supprimé, 30 min de retard »). Le RER comme running gag.
+- **Le motif du malentendu se confirme** : Victor (on le croit bourgeois, il jure), Rayan (on le croit caillera, il est doux), Nour (on la croit de cité, elle a un jardin). **Chacun est l'inverse de ce qu'on suppose.** Ça peut devenir le principe secret du groupe… et leur arme : personne ne les voit tels qu'ils sont, donc personne ne les voit venir. C'est très Lupin.
+- **Us, ou une ville de ce genre** : quelques milliers d'habitants (à vérifier), le Vexin, les champs, une gare de Transilien (ligne J, à vérifier), le dernier train qui part trop tôt. Running gag : personne ne sait où c'est. « C'est où, Us ? » « Après Pontoise. » « C'est où, Pontoise ? »
+- **Le parkour, c'est Spiderman.** Elle grimpe, elle saute, elle passe là où personne ne passe. **C'est sans doute elle qui renvoie les grenades** (réflexes, adresse) **et elle dont la blague « Mais que fait Spiderman ? » devient un plan**. Archétype Club des Cinq : **Mick**, l'aventurier.
+  → Ça veut dire que le « proche des casseurs », c'est elle : elle a le goût du risque, de l'adrénaline, des toits. Elle comprend ce qui excite les casseurs, sans partager leur colère.
+- **L'ennui pavillonnaire** comme moteur : la grande banlieue où il ne se passe rien, où l'on s'invente des terrains de jeu (toits, murets, parkings, voies ferrées désaffectées). Ce qu'elle cherche dans le groupe, c'est peut-être d'abord **l'aventure**, avant la cause. (Moteur « le jeu » de la section 4.) Danger : elle est celle que l'adrénaline peut emmener trop loin.
+- **L'athlétisme** : discipline, chrono, entraînement. Elle peut être celle qui fait répéter le groupe, qui chronomètre (le déménagement en 11 minutes de la v1). Et une compétition, une sélection, un avenir sportif qu'elle met en danger à chaque action illégale.
+- **La famille** : classe moyenne, pavillon, parents qui ont « réussi », qui tiennent à leur tranquillité et à leur image. Un père qui ne veut surtout pas de vagues. Peut-être des parents qui votent à droite, ou pas du tout, ou qui hésitent. Source de conflit si elle se fait arrêter.
+- **Fille de serrurier ?** Ça reste compatible (un artisan installé, une maison avec jardin), mais ce n'est plus indispensable. À trancher : garder le savoir des serrures chez elle, ou le donner à quelqu'un d'autre.
 
 ---
 
