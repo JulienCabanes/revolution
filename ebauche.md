@@ -775,6 +775,44 @@ Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 
 ---
 
+## 4 bis. Déroulé — Séquence 1 : le lendemain de manif
+
+> Déroulé proposé par Julien. Ordre des beats, pas encore de rédaction.
+
+### La manif de la veille
+- **Cause : le manque de moyens dans les lycées et les universités.** Cohérent avec leur âge (lycéens, étudiants) : c'est *leur* manif, pas une cause abstraite.
+- **Victor n'est pas à plaindre** (le 16ᵉ, le duplex), mais **il manifeste pour ses potes**. → Ça pourra lui être renvoyé (« toi tu t'en fous, t'as les moyens »), et ça dit sa loyauté.
+- ✅ **Victor ne fait pas d'études supérieures**, mais **il est loin d'être idiot**. (Nouveau détail : quel parcours ? Bac et rien après ? Il refuse la voie que ses parents ont tracée ? Il « fait de la musique » ? Encore une rébellion contre sa famille.)
+
+### Les beats
+1. **Le lendemain, ils voient les dégâts des casseurs** (photos, vidéos, articles). **Ils sont dégoûtés.**
+2. **Le chambrage** : Nour à Rayan, genre « T'as pas ramené une télé OLED ? ». C'est un peu raciste, mais ça passe parce que c'est Nour (et le lecteur le note, et le notera encore plus plus tard).
+3. **Ils réalisent que les casseurs accaparent le discours.** Personne ne parle des moyens des lycées, tout le monde parle des vitrines. (Extrait de presse intercalé : le décalage.)
+4. **Nour : « Mais que fait Spiderman ? »** C'est d'elle que vient l'idée, en vanne. (✅ Spiderman = Nour, cohérent avec le parkour.)
+5. **La conversation part ailleurs.**
+6. **Victor revient dessus.** C'est lui qui dit « en vrai… ». *(Remplace la piste « le sérieux qui dit et pourquoi pas ? » de la section 2 bis : c'est Victor, pas Zoé.)*
+7. **Victor évoque un filet géant.** **On se fout de lui.**
+8. **Il demande à Zoé de voir avec son IA si ce serait possible.**
+   - « Comment ça ? »
+   - « Bah un filet, genre de 20 m de long ! »
+   - « Et comment on les encercle ? »
+   - « Bah je sais pas, faut juste aller vite ? »
+
+### Pistes pour la suite immédiate (à valider)
+- **Première apparition de l'IA** dans le récit : Zoé colle la question, puis la réponse, dans le chat. Le ton de l'IA, sérieux et méthodique face à une idée absurde, crée le comique. Elle peut prendre la question très au premier degré (poids du filet, nombre de porteurs, « je vous déconseille », « les risques juridiques sont importants »).
+- Variante réaliste et drôle : **l'IA refuse ou met en garde** (elle ne veut pas aider à immobiliser des gens), et Zoé reformule, ruse, négocie avec elle. Le groupe découvre que leur cinquième membre a des principes.
+- La réponse de l'IA, même prudente, **ne dit pas que c'est impossible**. C'est ce « pas impossible » qui reste dans les têtes.
+- Le surnom de l'IA peut naître là (Dagobert, ou autre).
+- Fin de séquence : quelqu'un propose qu'on en reparle « chez Victor », à la prochaine soirée. Transition vers la première scène en vrai.
+
+### Rôles dans la séquence
+- **Nour** : la vanne (Spiderman), le chambrage.
+- **Victor** : la colère, la loyauté, la relance, le filet.
+- **Zoé** : l'outil (l'IA), le sérieux, peut-être la première à prendre ça au sérieux *techniquement* avant de le prendre au sérieux *moralement*.
+- **Rayan** : « bien rentrés ? », « c'était cool de se voir », il encaisse la blague OLED en riant, il dit son dégoût des casseurs avec émotion.
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
