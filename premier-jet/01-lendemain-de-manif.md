@@ -106,12 +106,6 @@ Non. C'est leur gaz, je leur rends, c'est de la politesse
 **Zoé** — 10:47
 avec le vent ça nous est retombé dessus
 
-**Nour** — 10:48
-Détail
-
-**Rayan** — 10:48
-Arrêtez de vous embrouiller, on était trop bien hier 🙏
-
 ---
 
 **Victor** — 11:15
