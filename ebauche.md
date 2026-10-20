@@ -579,6 +579,16 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Dans le chat** : beaucoup de jurons, peu de fautes (ou des fautes faites exprès ?), des messages vocaux énervés.
 - **Ce qu'il risque** : il est le seul à avoir un filet de sécurité (avocats, réseau, argent). Les autres le savent. « Toi, au pire, ton père appelle quelqu'un. » Tension de classe dans le groupe, surtout quand les ennuis arrivent.
 
+**✅ Le truc de Victor : la musique (Julien)**
+- Pistes (à choisir) :
+  - **Formation classique imposée** par les parents (piano ou violon depuis ses 6 ans, conservatoire), qu'il a **retournée** en rap, électro ou production sur son ordi. Encore un malentendu : le gosse du 16ᵉ qui jure fait de la trap, mais il lit une partition mieux que personne.
+  - **DJ des soirées** : c'est lui qui tient les platines dans le duplex.
+- **Ce que ça apporte à l'intrigue** :
+  - **La musique comme couverture** : quand quelqu'un descend au bureau, Victor monte le son. Le volume de la fête devient un signal (et un compte à rebours).
+  - **Le son en manif** : l'idée d'encercler les casseurs avec une fanfare ou une batucada (section 2 bis) devient son domaine. Noyer la casse dans la musique, voler la vedette par le son plutôt que par la force.
+  - **Le remix comme arme** : monter les discours publics des candidats bout à bout pour montrer qu'ils se répètent (la « rengaine », littéralement mise en musique). Satire légale, à partir de déclarations réelles. Et une rengaine, c'est un refrain.
+  - **Dans le chat** : des vocaux avec des beats en fond, des liens vers ses sons que personne n'écoute, des noms de playlists.
+
 **✅ Victor organise les soirées (Julien)**
 - C'est **chez lui** qu'ont lieu les soirées. **Les parents sont souvent absents** (cliché assumé de la famille qui a de l'argent).
 - → **L'appartement du 16ᵉ devient le QG** du groupe, leur « île de Kernach ». Les scènes « en vrai » s'y passent : grand salon, vue, frigo plein, voisins qui se plaignent, gardien qui les regarde passer (surtout Rayan et Nour).
