@@ -633,6 +633,10 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Le lien avec les autres fils.** Le flic de gauche (« avant, on discutait avec les gars des quartiers ») ; le LBD ; le jeune blessé de la v1 (si on garde un blessé, est-ce Rayan, son frère, ou personne ?).
 - **La révélation** : quand et comment le groupe l'apprend. Un vocal à 3 h du matin ? Une dispute ? Un parent qui en parle ? Victor qui tombe sur l'article ? Et que fait le groupe des blagues d'avant ?
 
+**✅ Révélation (Julien, scène « Quinze secondes »)** : le secret sort dans le chat, juste après l'opération à CNews. Rayan, qui vient de frapper un technicien en panique : « Ils vont me coincer, c'est sûr… comme mon frère ». Puis, face à la blague de Nour : « Mon frère a déjà pris 3 ans pour avoir été au mauvais endroit au mauvais moment ». Nour : « Pardon, je savais pas… ».
+- → Le frère a donc été **condamné à 3 ans** (prison). À préciser : lien avec la « bavure » imaginée au départ (interpellation violente puis condamnation ?), et ce que veut dire « au mauvais endroit au mauvais moment ».
+- → La révélation passe par le chat, pas par un article : l'idée de l'article ancien intercalé reste possible plus tard, pour donner les faits.
+
 **À préciser plus tard**
 - **Ses études / son truc** : piste retenue de côté (Julien) : **le journaliste de la bande**. Il filme, il écrit, il raconte, il garde des traces. (À développer plus tard. Peut-être lié au format dossier : est-ce lui qui assemble les documents ? Et le danger d'un journaliste dans un groupe qui enfreint la loi : les traces sont des preuves.) Les autres ont chacun leur domaine (musique, droit et parkour, informatique) ; celui de Rayan doit rester cohérent avec sa douceur et son côté expressif.
 - La famille : origines, combien de frères et sœurs, les parents (métiers, religion, rapport à la police, à la politique, au vote).
