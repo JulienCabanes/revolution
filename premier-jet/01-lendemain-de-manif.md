@@ -219,16 +219,51 @@ bon je vais tester avec un modèle open source, ils ont pas tous ces soucis de c
 Et ton gestionnaire de mots de passe ?
 
 **Zoé** — 12:11
-il attendra
+je le fais en parallèle, de toute façon faut pas être pressée avec un modèle local…
 
 **Nour** — 12:12
 On en parle samedi chez le marquis ?
 
 **Victor** — 12:12
-Je vous déteste
+Je déteste ce surnom et tu le sais…
 
 **Victor** — 12:12
 Oui. Samedi. Ramenez à boire.
 
 **Rayan** — 12:13
 🙌🙌🙌
+
+---
+
+**Zoé** — 15:21
+bon
+le modèle a fini de tourner, je lui ai donné les vidéos d'hier
+
+**Zoé** — 15:22
+il a compté les gars en noir image par image. il en trouve 38 au moment de la vitrine
+et il a calculé combien on pourrait en bloquer avec un filet tenu par 4 personnes seulement
+
+**Nour** — 15:22
+Et ?
+
+**Zoé** — 15:23
+plus que ce que je pensais
+
+**Zoé** — 15:24
+et il m'a sorti le plan pour le fabriquer. la taille des mailles, le fil, le nombre de mètres, tout
+*[capture d'écran]*
+
+**Rayan** — 15:25
+Attends il t'a vraiment fait un plan ?
+
+**Victor** — 15:25
+JE VOUS L'AVAIS DIT
+
+**Nour** — 15:26
+Zoé t'es en train de me dire qu'on peut le faire pour de vrai
+
+**Zoé** — 15:31
+je suis en train de te dire qu'il a même pas demandé pourquoi
+
+**Rayan** — 15:32
+C'est un peu flippant non ?
