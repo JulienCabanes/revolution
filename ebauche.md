@@ -817,6 +817,7 @@ Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 
 - ✅ **« La République, c'est nous »**, en attendant mieux.
 - La référence au « La République, c'est moi ! » de Mélenchon est **voulue**. On comprend très vite que ce n'est pas partisan : les personnages se moquent déjà un peu de LFI (le Spiderman du cortège) et le referont.
+- ⚠️ À reprendre (Julien) : le slogan diffusé (« La République, c'est pas Mélenchon, c'est pas Macron, c'est pas Le Pen. La République, c'est NOUS ! ») peut quand même être très perçu à gauche. On y reviendra.
 - Écartés : « Rien n'a été volé » (c'est un principe, pas un titre), « Mais que fait Spiderman ? », « Maisonnée 7 » (peut rester le nom du groupe), les autres.
 
 ---
