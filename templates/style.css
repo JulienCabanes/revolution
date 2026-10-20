@@ -1,0 +1,143 @@
+:root {
+  --bg: #efeae2;
+  --bg-dot: rgba(0, 0, 0, .035);
+  --bubble: #ffffff;
+  --text: #111b21;
+  --meta: #667781;
+  --chip: #ffffff;
+  --chip-text: #54656f;
+  --top: #f0f2f5;
+  --top-line: #d1d7db;
+  --quote: #f0f2f5;
+  --quote-bar: #8696a0;
+  --paper: #fbf8f1;
+  --paper-text: #1d1b16;
+  --paper-meta: #a1342a;
+  --paper-line: #e4dccb;
+  --shadow: 0 1px .5px rgba(11, 20, 26, .13);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b141a;
+    --bg-dot: rgba(255, 255, 255, .025);
+    --bubble: #202c33;
+    --text: #e9edef;
+    --meta: #8696a0;
+    --chip: #182229;
+    --chip-text: #8696a0;
+    --top: #202c33;
+    --top-line: #2a3942;
+    --quote: #1a2328;
+    --quote-bar: #8696a0;
+    --paper: #1e1c18;
+    --paper-text: #ece6d8;
+    --paper-meta: #e0806f;
+    --paper-line: #3a352b;
+    --shadow: 0 1px .5px rgba(0, 0, 0, .3);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0b141a; --bg-dot: rgba(255, 255, 255, .025); --bubble: #202c33; --text: #e9edef;
+  --meta: #8696a0; --chip: #182229; --chip-text: #8696a0; --top: #202c33; --top-line: #2a3942;
+  --quote: #1a2328; --quote-bar: #8696a0; --paper: #1e1c18; --paper-text: #ece6d8;
+  --paper-meta: #e0806f; --paper-line: #3a352b; --shadow: 0 1px .5px rgba(0, 0, 0, .3);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background-color: var(--bg);
+  background-image: radial-gradient(var(--bg-dot) 1px, transparent 1px);
+  background-size: 18px 18px;
+  color: var(--text);
+  font: 15px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* header */
+.top {
+  position: sticky; top: 0; z-index: 5;
+  background: var(--top); border-bottom: 1px solid var(--top-line);
+}
+.topin { max-width: 760px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 12px; }
+.gav { display: flex; }
+.gav .av { width: 30px; height: 30px; font-size: 14px; margin-left: -8px; border: 2px solid var(--top); }
+.gav .av:first-child { margin-left: 0; }
+.gtxt { min-width: 0; }
+.gname { font-weight: 600; font-size: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gmembers { color: var(--meta); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* feed */
+.feed { max-width: 760px; margin: 0 auto; padding: 8px 16px 40px; }
+.cover { text-align: center; padding: 48px 8px 24px; }
+.cover h1 { font: 700 34px/1.1 Georgia, "Times New Roman", serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.cover p { color: var(--meta); margin: 6px auto; max-width: 30em; }
+.epilogue { text-align: center; color: var(--meta); font-size: 13px; padding: 40px 0 20px; }
+
+.chapter { text-align: center; margin: 36px 0 18px; }
+.chapter .ct { font: 600 13px/1.3 inherit; text-transform: uppercase; letter-spacing: .12em; color: var(--meta); }
+.chapter .cs { font: 700 24px/1.2 Georgia, "Times New Roman", serif; margin-top: 4px; }
+
+.day, .event { text-align: center; margin: 14px 0; }
+.day span, .event span {
+  display: inline-block; background: var(--chip); color: var(--chip-text);
+  font-size: 12.5px; padding: 5px 12px; border-radius: 8px; box-shadow: var(--shadow);
+}
+.day span { text-transform: uppercase; letter-spacing: .02em; }
+.interlude { text-align: center; color: var(--meta); font-style: italic; margin: 32px 0; }
+.spacer { height: 80px; }
+
+/* messages: nobody owns the phone, so every bubble sits on the left */
+.msg { display: flex; align-items: flex-start; gap: 8px; margin: 2px 0; padding-right: 15%; }
+.msg.first { margin-top: 10px; }
+.av {
+  flex: none; width: 32px; height: 32px; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  color: #fff; font-weight: 700; font-size: 15px; user-select: none;
+}
+.av.none { visibility: hidden; height: 0; }
+.bubble {
+  position: relative; background: var(--bubble); border-radius: 8px;
+  padding: 6px 9px 7px; box-shadow: var(--shadow); max-width: 100%; min-width: 64px;
+  overflow-wrap: anywhere;
+}
+.msg.first .bubble { border-top-left-radius: 0; }
+.msg.first .bubble::before {
+  content: ""; position: absolute; left: -8px; top: 0;
+  border-top: 0 solid transparent; border-right: 8px solid var(--bubble); border-bottom: 10px solid transparent;
+}
+.who { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+.txt .l { white-space: pre-wrap; }
+.txt .l:empty { height: 1em; }
+.time {
+  float: right; margin: 6px 0 -4px 12px; font-size: 11px; color: var(--meta);
+  font-variant-numeric: tabular-nums; position: relative; top: 4px;
+}
+.msg.big .bubble { background: none; box-shadow: none; padding: 0 2px; }
+.msg.big .bubble::before { display: none; }
+.msg.big .txt { font-size: 40px; line-height: 1.15; }
+blockquote {
+  margin: 3px 0; padding: 6px 9px; background: var(--quote); border-left: 4px solid var(--quote-bar);
+  border-radius: 6px; font-style: italic; font-size: 14px;
+}
+.att {
+  display: inline-flex; align-items: center; gap: 8px; margin: 3px 0; padding: 7px 12px;
+  background: var(--quote); border-radius: 6px; color: var(--meta); font-size: 14px;
+}
+
+/* press clippings, interleaved with the chat */
+.press {
+  background: var(--paper); color: var(--paper-text);
+  margin: 26px -4px; padding: 20px 24px 18px; border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .12), 0 6px 18px rgba(0, 0, 0, .06);
+  border-top: 3px solid var(--paper-meta);
+}
+.press .src { font: 700 11.5px/1.3 inherit; text-transform: uppercase; letter-spacing: .1em; color: var(--paper-meta); }
+.press h2 { font: 700 21px/1.25 Georgia, "Times New Roman", serif; margin: 8px 0 10px; }
+.press p { font: 16px/1.55 Georgia, "Times New Roman", serif; margin: 0 0 8px; }
+
+@media (max-width: 520px) {
+  .msg { padding-right: 6%; }
+  .press { margin: 22px 0; padding: 16px 16px 14px; }
+  .cover h1 { font-size: 28px; }
+}

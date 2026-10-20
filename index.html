@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Révolution</title>
+<style>
+:root {
+  --bg: #efeae2;
+  --bg-dot: rgba(0, 0, 0, .035);
+  --bubble: #ffffff;
+  --text: #111b21;
+  --meta: #667781;
+  --chip: #ffffff;
+  --chip-text: #54656f;
+  --top: #f0f2f5;
+  --top-line: #d1d7db;
+  --quote: #f0f2f5;
+  --quote-bar: #8696a0;
+  --paper: #fbf8f1;
+  --paper-text: #1d1b16;
+  --paper-meta: #a1342a;
+  --paper-line: #e4dccb;
+  --shadow: 0 1px .5px rgba(11, 20, 26, .13);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0b141a;
+    --bg-dot: rgba(255, 255, 255, .025);
+    --bubble: #202c33;
+    --text: #e9edef;
+    --meta: #8696a0;
+    --chip: #182229;
+    --chip-text: #8696a0;
+    --top: #202c33;
+    --top-line: #2a3942;
+    --quote: #1a2328;
+    --quote-bar: #8696a0;
+    --paper: #1e1c18;
+    --paper-text: #ece6d8;
+    --paper-meta: #e0806f;
+    --paper-line: #3a352b;
+    --shadow: 0 1px .5px rgba(0, 0, 0, .3);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0b141a; --bg-dot: rgba(255, 255, 255, .025); --bubble: #202c33; --text: #e9edef;
+  --meta: #8696a0; --chip: #182229; --chip-text: #8696a0; --top: #202c33; --top-line: #2a3942;
+  --quote: #1a2328; --quote-bar: #8696a0; --paper: #1e1c18; --paper-text: #ece6d8;
+  --paper-meta: #e0806f; --paper-line: #3a352b; --shadow: 0 1px .5px rgba(0, 0, 0, .3);
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background-color: var(--bg);
+  background-image: radial-gradient(var(--bg-dot) 1px, transparent 1px);
+  background-size: 18px 18px;
+  color: var(--text);
+  font: 15px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* header */
+.top {
+  position: sticky; top: 0; z-index: 5;
+  background: var(--top); border-bottom: 1px solid var(--top-line);
+}
+.topin { max-width: 760px; margin: 0 auto; padding: 10px 16px; display: flex; align-items: center; gap: 12px; }
+.gav { display: flex; }
+.gav .av { width: 30px; height: 30px; font-size: 14px; margin-left: -8px; border: 2px solid var(--top); }
+.gav .av:first-child { margin-left: 0; }
+.gtxt { min-width: 0; }
+.gname { font-weight: 600; font-size: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.gmembers { color: var(--meta); font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* feed */
+.feed { max-width: 760px; margin: 0 auto; padding: 8px 16px 40px; }
+.cover { text-align: center; padding: 48px 8px 24px; }
+.cover h1 { font: 700 34px/1.1 Georgia, "Times New Roman", serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.cover p { color: var(--meta); margin: 6px auto; max-width: 30em; }
+.epilogue { text-align: center; color: var(--meta); font-size: 13px; padding: 40px 0 20px; }
+
+.chapter { text-align: center; margin: 36px 0 18px; }
+.chapter .ct { font: 600 13px/1.3 inherit; text-transform: uppercase; letter-spacing: .12em; color: var(--meta); }
+.chapter .cs { font: 700 24px/1.2 Georgia, "Times New Roman", serif; margin-top: 4px; }
+
+.day, .event { text-align: center; margin: 14px 0; }
+.day span, .event span {
+  display: inline-block; background: var(--chip); color: var(--chip-text);
+  font-size: 12.5px; padding: 5px 12px; border-radius: 8px; box-shadow: var(--shadow);
+}
+.day span { text-transform: uppercase; letter-spacing: .02em; }
+.interlude { text-align: center; color: var(--meta); font-style: italic; margin: 32px 0; }
+.spacer { height: 80px; }
+
+/* messages: nobody owns the phone, so every bubble sits on the left */
+.msg { display: flex; align-items: flex-start; gap: 8px; margin: 2px 0; padding-right: 15%; }
+.msg.first { margin-top: 10px; }
+.av {
+  flex: none; width: 32px; height: 32px; border-radius: 50%;
+  display: inline-flex; align-items: center; justify-content: center;
+  color: #fff; font-weight: 700; font-size: 15px; user-select: none;
+}
+.av.none { visibility: hidden; height: 0; }
+.bubble {
+  position: relative; background: var(--bubble); border-radius: 8px;
+  padding: 6px 9px 7px; box-shadow: var(--shadow); max-width: 100%; min-width: 64px;
+  overflow-wrap: anywhere;
+}
+.msg.first .bubble { border-top-left-radius: 0; }
+.msg.first .bubble::before {
+  content: ""; position: absolute; left: -8px; top: 0;
+  border-top: 0 solid transparent; border-right: 8px solid var(--bubble); border-bottom: 10px solid transparent;
+}
+.who { font-size: 13px; font-weight: 600; margin-bottom: 2px; }
+.txt .l { white-space: pre-wrap; }
+.txt .l:empty { height: 1em; }
+.time {
+  float: right; margin: 6px 0 -4px 12px; font-size: 11px; color: var(--meta);
+  font-variant-numeric: tabular-nums; position: relative; top: 4px;
+}
+.msg.big .bubble { background: none; box-shadow: none; padding: 0 2px; }
+.msg.big .bubble::before { display: none; }
+.msg.big .txt { font-size: 40px; line-height: 1.15; }
+blockquote {
+  margin: 3px 0; padding: 6px 9px; background: var(--quote); border-left: 4px solid var(--quote-bar);
+  border-radius: 6px; font-style: italic; font-size: 14px;
+}
+.att {
+  display: inline-flex; align-items: center; gap: 8px; margin: 3px 0; padding: 7px 12px;
+  background: var(--quote); border-radius: 6px; color: var(--meta); font-size: 14px;
+}
+
+/* press clippings, interleaved with the chat */
+.press {
+  background: var(--paper); color: var(--paper-text);
+  margin: 26px -4px; padding: 20px 24px 18px; border-radius: 3px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, .12), 0 6px 18px rgba(0, 0, 0, .06);
+  border-top: 3px solid var(--paper-meta);
+}
+.press .src { font: 700 11.5px/1.3 inherit; text-transform: uppercase; letter-spacing: .1em; color: var(--paper-meta); }
+.press h2 { font: 700 21px/1.25 Georgia, "Times New Roman", serif; margin: 8px 0 10px; }
+.press p { font: 16px/1.55 Georgia, "Times New Roman", serif; margin: 0 0 8px; }
+
+@media (max-width: 520px) {
+  .msg { padding-right: 6%; }
+  .press { margin: 22px 0; padding: 16px 16px 14px; }
+  .cover h1 { font-size: 28px; }
+}
+
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="topin">
+    <div class="gav"><span class="av" style="background:#D9480F">N</span><span class="av" style="background:#1C7ED6">R</span><span class="av" style="background:#AE3EC9">V</span><span class="av" style="background:#0C8599">Z</span></div>
+    <div class="gtxt">
+      <div class="gname" id="gname">Maisonnée 7 🎸</div>
+      <div class="gmembers">Nour, Rayan, Victor, Zoé</div>
+    </div>
+  </div>
+</header>
+<main class="feed">
+  <section class="cover">
+    <h1>Révolution</h1>
+    <p>Fiction. Une conversation de groupe, entrecoupée de ce que le monde en dit.</p>
+  </section>
+<section class="chapter" id="s1"><div class="ct">Séquence 1</div><div class="cs">Le lendemain</div></section>
+<div class="day"><span>Vendredi</span></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Bien rentrés tout le monde ?</div><div class="l">C’était trop cool de se voir hier, même avec tout ce qui s’est passé 🥹</div><div class="l">Nour t’as eu ton train finalement ?</div></div><span class="time">09:12</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Bah non, supprimé.</div><div class="l">J’ai pris le suivant, 1h10 de retard, arrivée minuit et demi.</div><div class="l">Ma mère s’était endormie sur le parking…</div></div><span class="time">09:40</span></div></div>
+<div class="msg first big"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">😭😭</div></div><span class="time">09:41</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Putain j’ai encore les yeux qui piquent. Je me suis lavé les cheveux trois fois, ça sent encore le gaz</div></div><span class="time">10:03</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">C’est pas le gaz Victor, c’est toi</div></div><span class="time">10:05</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Va te faire</div></div><span class="time">10:05</span></div></div>
+<div class="msg first big"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">😂😂😂</div></div><span class="time">10:06</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">vous avez vu les vidéos ?</div><div class="att"><span class="ai">🔗</span>Lien</div></div><span class="time">10:11</span></div></div>
+<article class="press"><div class="src">Fil d’actualité — 10:30</div><h2>Manifestation lycéenne et étudiante : vitrines brisées et mobilier urbain incendié en marge du cortège</h2><p>Plusieurs commerces ont été dégradés jeudi en fin d’après-midi, en marge de la manifestation contre le manque de moyens dans l’enseignement. Une agence bancaire et un magasin d’électroménager ont eu leurs vitrines brisées par des individus vêtus de noir. Les forces de l’ordre ont procédé à 14 interpellations. Le ministre a dénoncé « des violences inacceptables ».</p></article>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">le magasin d’électroménager c’est celui devant lequel on était, genre à 50 mètres</div></div><span class="time">10:34</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Oui j’ai vu.</div><div class="l">Y a des gens qui sont sortis avec des cartons</div></div><span class="time">10:35</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Rayan c’est pas toi qu’on voit avec un OLED 55 pouces ?</div></div><span class="time">10:36</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Ahah ! Non c’est ton cousin</div></div><span class="time">10:37</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Ah il me semblait aussi 😭</div></div><span class="time">10:37</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Vous êtes graves</div></div><span class="time">10:38</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Franchement ça m’a dégoûté.</div><div class="l">On était trop bien, y avait les profs du lycée Delaunay avec leur banderole, y avait des parents.</div><div class="l">Et là tout ce qu’on retient c’est des mecs qui pètent une vitrine.</div><div class="l">Ça me rend triste en vrai</div></div><span class="time">10:39</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">j’ai regardé 4 chaînes d’info ce matin</div><div class="l">temps de parole sur les moyens des lycées : 0</div><div class="l">temps sur la vitrine : en boucle, genre littéralement, la même image</div></div><span class="time">10:42</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Le pire c’est que la moitié des gars en noir ils ont même pas dix-huit ans.</div><div class="l">Ils savent même pas pourquoi on manifestait</div></div><span class="time">10:44</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Ils s’en battent les reins de pourquoi on manifestait.</div><div class="l">Ils viennent pour ça, c’est leur sport</div></div><span class="time">10:45</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Moi aussi j’ai mon sport mais je casse pas des vitrines</div></div><span class="time">10:45</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Toi tu renvoies des grenades aux CRS</div></div><span class="time">10:46</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">C’est pas pareil</div></div><span class="time">10:46</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">C’est exactement pareil</div></div><span class="time">10:46</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Non. C’est leur gaz, je leur rends, c’est de la politesse</div></div><span class="time">10:47</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">avec le vent ça nous est retombé dessus</div></div><span class="time">10:47</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">En vrai c’est pas les CRS le problème, c’est eux.</div><div class="l">Les casseurs.</div><div class="l">Ils nous volent la manif.</div><div class="l">On se lève à 6h, on fait les banderoles, on marche 4 heures, et eux ils arrivent à la fin et ils repartent avec la une</div></div><span class="time">11:15</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Et des TV 55 pouces</div></div><span class="time">11:16</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">c’est eux le message maintenant</div><div class="l">nous on est le décor</div></div><span class="time">11:17</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Mais que fait Spiderman 🕷️</div></div><span class="time">11:19</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">😂😂 Spiderman je l’ai vu dans la manif, il faisait le guignol avec le cortège LFI. Il doit manquer de thunes</div></div><span class="time">11:20</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Comme les lycées</div></div><span class="time">11:20</span></div></div>
+<div class="msg first big"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">👏</div></div><span class="time">11:21</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Bon changement de sujet, quelqu’un a cours lundi matin ?</div><div class="l">J’ai un exposé et j’ai rien fait 😬</div></div><span class="time">11:23</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Sur quoi ?</div></div><span class="time">11:24</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">La liberté de la presse. Dix minutes à l’oral devant toute la classe</div></div><span class="time">11:25</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Parle de la vitrine, ça va durer une heure</div></div><span class="time">11:25</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Ahah très drôle</div></div><span class="time">11:26</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">moi j’ai pas cours mais je vais pas sortir de ma chambre du week-end je dois coder un gestionnaire de mots de passe pour mardi et évidemment mon binôme a rien fait</div></div><span class="time">11:28</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Ça a l’air passionnant</div></div><span class="time">11:29</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">ça l’est</div><div class="l">c’est un coffre-fort, tu retiens un seul mot de passe et lui retient tous les autres</div></div><span class="time">11:29</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Et si quelqu’un a le seul mot de passe ?</div></div><span class="time">11:31</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">bah il a tout</div></div><span class="time">11:31</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Rassurant</div></div><span class="time">11:32</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Moi j’ai le même mot de passe partout, comme ça j’oublie pas 😇</div></div><span class="time">11:33</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">En vrai c’est pas con</div></div><span class="time">11:52</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">de quoi ? D’avoir le même mot de passe partout ??</div></div><span class="time">11:53</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Non. Spiderman</div></div><span class="time">11:53</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Comment ça ?</div></div><span class="time">11:54</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Imagine si on pouvait les attraper avec un filet géant ?</div></div><span class="time">11:55</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Un filet géant ? Wow t’as respiré trop de gaz !</div></div><span class="time">11:55</span></div></div>
+<div class="msg first big"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">😂😂😂</div></div><span class="time">11:56</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Nan je suis sérieux. Imagine un filet de 20 m ou plus qu’on déploie, et on les encercle avec. Ça marcherait non ?</div><div class="l">Zoé t’en dis quoi ?</div></div><span class="time">11:58</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">je viens de demander à l’IA</div></div><span class="time">12:06</span></div></div>
+<div class="msg"><span class="av none"></span><div class="bubble"><div class="txt"><blockquote>Je ne peux pas vous aider avec ça. Immobiliser des personnes au milieu d’une foule est dangereux, pour elles comme pour vous, et constitue une infraction (violences, séquestration). Si vous voulez protéger votre cortège, renseignez-vous plutôt sur le rôle des services d’ordre.</blockquote></div><span class="time">12:06</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Elle a dit séquestration, elle est en droit avec moi ou quoi</div></div><span class="time">12:07</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Elle est polie au moins 😅</div></div><span class="time">12:07</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Elle a pas dit que c’était impossible</div></div><span class="time">12:08</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">elle a dit que c’était pas une chose à faire, nuance</div><div class="l">bon je vais tester avec un modèle open source, ils ont pas tous ces soucis de censure</div></div><span class="time">12:10</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Et ton gestionnaire de mots de passe ?</div></div><span class="time">12:11</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">je le fais en parallèle, de toute façon faut pas être pressée avec un modèle local…</div></div><span class="time">12:11</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">On en parle samedi chez le marquis ?</div></div><span class="time">12:12</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">Je déteste ce surnom et tu le sais…</div></div><span class="time">12:12</span></div></div>
+<div class="msg"><span class="av none"></span><div class="bubble"><div class="txt"><div class="l">Oui. Samedi. Ramenez à boire.</div></div><span class="time">12:12</span></div></div>
+<div class="msg first big"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">🙌🙌🙌</div></div><span class="time">12:13</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">bon</div><div class="l">le modèle a fini de tourner, je lui ai donné les vidéos d’hier</div></div><span class="time">15:21</span></div></div>
+<div class="msg"><span class="av none"></span><div class="bubble"><div class="txt"><div class="l">il a compté les gars en noir image par image. il en trouve 38 au moment de la vitrine</div><div class="l">et il a calculé combien on pourrait en bloquer avec un filet tenu par 4 personnes seulement</div></div><span class="time">15:22</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Et ?</div></div><span class="time">15:22</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">plus que ce que je pensais</div></div><span class="time">15:23</span></div></div>
+<div class="msg"><span class="av none"></span><div class="bubble"><div class="txt"><div class="l">et il m’a sorti le plan pour le fabriquer. la taille des mailles, le fil, le nombre de mètres, tout</div><div class="att"><span class="ai">🖼️</span>Capture d’écran</div></div><span class="time">15:24</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">Attends il t’a vraiment fait un plan ?</div></div><span class="time">15:25</span></div></div>
+<div class="msg first"><span class="av" style="background:#AE3EC9">V</span><div class="bubble"><div class="who" style="color:#AE3EC9">Victor</div><div class="txt"><div class="l">JE VOUS L’AVAIS DIT</div></div><span class="time">15:25</span></div></div>
+<div class="msg first"><span class="av" style="background:#D9480F">N</span><div class="bubble"><div class="who" style="color:#D9480F">Nour</div><div class="txt"><div class="l">Zoé t’es en train de me dire qu’on peut le faire pour de vrai</div></div><span class="time">15:26</span></div></div>
+<div class="msg first"><span class="av" style="background:#0C8599">Z</span><div class="bubble"><div class="who" style="color:#0C8599">Zoé</div><div class="txt"><div class="l">je suis en train de te dire qu’il a même pas demandé pourquoi</div></div><span class="time">15:31</span></div></div>
+<div class="msg first"><span class="av" style="background:#1C7ED6">R</span><div class="bubble"><div class="who" style="color:#1C7ED6">Rayan</div><div class="txt"><div class="l">C’est un peu flippant non ?</div></div><span class="time">15:32</span></div></div>
+  <footer class="epilogue">Fiction. Premier jet.</footer>
+</main>
+<script type="application/json" id="groups">["Maisonnée 7 🎸"]</script>
+<script>
+// The header shows the group's name as it was at the point being read.
+// build.py drops a .mark[data-group=N] wherever the group is renamed.
+(function () {
+  var names = JSON.parse(document.getElementById('groups').textContent);
+  var marks = [].slice.call(document.querySelectorAll('[data-group]'));
+  var title = document.getElementById('gname');
+  var current = 0;
+  function check() {
+    var n = 0, y = window.innerHeight / 2;
+    for (var i = 0; i < marks.length; i++) {
+      if (marks[i].getBoundingClientRect().top > y) break;
+      n = +marks[i].getAttribute('data-group');
+    }
+    if (n !== current) { current = n; title.innerHTML = names[n]; }
+  }
+  check();
+  window.addEventListener('scroll', check, { passive: true });
+  window.addEventListener('resize', check);
+})();
+
+</script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "lang": "fr",
+  "typography": "fr",
+  "output": "index.html",
+  "page_title": "Révolution",
+
+  "title": "Révolution",
+  "intro": [
+    "Fiction. Une conversation de groupe, entrecoupée de ce que le monde en dit."
+  ],
+  "epilogue": "Fiction. Premier jet.",
+
+  "group": {
+    "members": ["nour", "rayan", "victor", "zoe"]
+  },
+
+  "ui": {
+    "time": "{h}:{m}",
+    "you": "vous"
+  }
+}

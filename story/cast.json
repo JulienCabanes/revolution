@@ -1,0 +1,6 @@
+{
+  "nour":   { "name": "Nour",   "color": "#D9480F" },
+  "rayan":  { "name": "Rayan",  "color": "#1C7ED6" },
+  "victor": { "name": "Victor", "color": "#AE3EC9" },
+  "zoe":    { "name": "Zoé",    "color": "#0C8599" }
+}
