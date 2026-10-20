@@ -840,8 +840,14 @@ Je vous ai déjà dit que mon père était dans le secteur bancaire ?
 rayan 22:56
 Tu parles jamais de ton père
 
-zoe 22:57
-et il serait ok pour te filer ses codes ?
+zoe 22:56
+et il fait quoi précisément ?
+
+victor 22:57
+Il est ingénieur réseau au niveau national. A priori il a accès à quelques serveurs à la Banque Populaire
+
+zoe 22:58
+ça tombe bien… et il serait ok pour te filer ses codes ?
 
 victor 22:58
 Il est pas là en ce moment. Mais pas besoin, j'ai le mot de passe de son Mac
