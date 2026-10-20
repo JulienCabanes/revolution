@@ -586,6 +586,12 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
   - Peut-être un groupe, des répètes dans un local, des concerts minables dans des bars.
   - Encore un malentendu possible : on l'imagine au conservatoire, il fait du rock bruyant. (Ou il a fait le conservatoire, imposé, et l'a retourné en riffs.)
   - Le rock comme langue de la rébellion contre sa famille, et de ses jurons.
+- ✅ **Au SNU, c'est lui qui a ramené la guitare acoustique.** C'est **ça qui a fédéré le groupe** : les chambres n'étaient pas mixtes, la guitare a réuni garçons et filles le soir, dehors ou dans un espace commun.
+- ✅ **Il jouait du Nirvana.** Et **c'est le seul moment où on le voit apaisé**. Le reste du temps, **il est souvent en colère, mais jamais contre ses amis**.
+- → Clin d'œil évident : *MTV Unplugged in New York* (1993), le Nirvana acoustique, la rage jouée doucement. C'est exactement Victor. (Morceaux possibles : *Come as You Are*, *Where Did You Sleep Last Night*, *Something in the Way*… à choisir pour ce qu'ils disent.)
+- → **Ce n'est pas « lover »** : il ne joue pas pour séduire, il joue pour se calmer. La guitare est sa seule paix.
+- → Sa colère : contre sa famille, contre son milieu, contre le monde. Jamais contre eux. Le groupe est le seul endroit où il n'est pas en guerre. Ce qui le rend dangereux : une colère sans cible qui cherche une cible.
+- → **Motif narratif** : quand il reprend la guitare acoustique, c'est que quelque chose se passe (une réconciliation, un deuil, la veille d'une action, la fin). Le souvenir du SNU peut revenir comme un refrain. Peut-être la dernière scène : quelqu'un lui demande de jouer « comme au SNU ».
 - **Ce que ça apporte à l'intrigue** :
   - **La musique comme couverture** : quand quelqu'un descend au bureau, Victor monte le son. Le volume de la fête devient un signal (et un compte à rebours).
   - **Le son en manif** : l'idée de noyer la casse dans la musique (fanfare, batucada, section 2 bis) devient son domaine. Version rock : un ampli sur un caddie, une guitare saturée qui couvre les slogans des casseurs.
@@ -628,7 +634,7 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **La révélation** : quand et comment le groupe l'apprend. Un vocal à 3 h du matin ? Une dispute ? Un parent qui en parle ? Victor qui tombe sur l'article ? Et que fait le groupe des blagues d'avant ?
 
 **À préciser plus tard**
-- **Ses études / son truc** : pas encore décidé (Julien). Les autres ont chacun leur domaine (musique, droit et parkour, informatique) ; celui de Rayan doit rester cohérent avec sa douceur et son côté expressif.
+- **Ses études / son truc** : piste retenue de côté (Julien) : **le journaliste de la bande**. Il filme, il écrit, il raconte, il garde des traces. (À développer plus tard. Peut-être lié au format dossier : est-ce lui qui assemble les documents ? Et le danger d'un journaliste dans un groupe qui enfreint la loi : les traces sont des preuves.) Les autres ont chacun leur domaine (musique, droit et parkour, informatique) ; celui de Rayan doit rester cohérent avec sa douceur et son côté expressif.
 - La famille : origines, combien de frères et sœurs, les parents (métiers, religion, rapport à la police, à la politique, au vote).
 - Ce qui est arrivé exactement au frère (blessé, handicapé, mort ? procès, non-lieu ?) et où il en est aujourd'hui. Références réelles à garder à distance mais à connaître (affaires Adama Traoré en 2016, Théo Luhaka en 2017, Nahel en 2023).
 - Ce que Rayan aime, ce qu'il veut faire de sa vie : pour qu'il ne soit pas défini que par son secret.
