@@ -86,6 +86,7 @@ body {
 .day span { text-transform: uppercase; letter-spacing: .02em; }
 .interlude { text-align: center; color: var(--meta); font-style: italic; margin: 32px 0; }
 .spacer { height: 80px; }
+.pause { height: 14px; }
 
 /* messages: nobody owns the phone, so every bubble sits on the left */
 .msg { display: flex; align-items: flex-start; gap: 8px; margin: 2px 0; padding-right: 15%; }
@@ -148,3 +149,13 @@ blockquote {
   .cover h1 { font-size: 28px; }
 }
 .epilogue:empty { display: none; }
+
+/* reactions, under the bubble like WhatsApp */
+.msg.reacted { margin-bottom: 20px; }
+.reacts {
+  position: absolute; left: 10px; bottom: -17px; z-index: 1;
+  display: flex; gap: 2px; padding: 1px 6px; border-radius: 12px;
+  background: var(--bubble); border: 1.5px solid var(--bg); box-shadow: var(--shadow);
+  font-size: 13px; line-height: 18px; color: var(--meta); white-space: nowrap;
+}
+.msg.big .reacts { left: 2px; }

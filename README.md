@@ -58,7 +58,9 @@ Nour t'as eu ton train finalement ?
   sans bulle. L'option `big` après l'heure force cet affichage.
 - Typographie : tapez des espaces et apostrophes normales ; la génération pose
   les espaces insécables françaises et les apostrophes typographiques.
-- Deux messages de suite du même auteur partagent l'avatar et le nom.
+- `[reactions] 😂 2, ❤️ 1` en dernière ligne : réactions sous la bulle.
+- Deux messages de suite du même auteur partagent l'avatar et le nom (sauf
+  après une heure de silence).
 
 ### Articles et documents
 
@@ -78,7 +80,7 @@ La première ligne donne la source, la deuxième le titre, les suivantes le corp
 |-----------|-------|
 | `[group] Maisonnée 7 🎸` | nom du groupe (le premier est obligatoire ; les suivants renomment le groupe dans l'en-tête au fil de la lecture) |
 | `# Séquence 1 \| Le lendemain {#s1}` | début de séquence (titre, sous-titre, ancre facultative) |
-| `--- Vendredi` | séparateur de date |
+| `--- Vendredi` | séparateur de date (`---` seul : courte pause dans la même journée) |
 | `[event] Victor a renommé le groupe` | message système centré |
 | `[interlude] Trois semaines plus tard` | ellipse centrée |
 | `[spacer]` | grand blanc vertical |

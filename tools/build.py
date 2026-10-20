@@ -130,7 +130,9 @@ class Edition:
             return
         m = re.match(r'---\s*(.*)$', line)
         if m:
-            self.out.append('<div class="day"><span>%s</span></div>' % inline(m.group(1)))
+            # "---" alone is a pause in the same day; with text, a date chip.
+            self.out.append('<div class="day"><span>%s</span></div>' % inline(m.group(1))
+                            if m.group(1).strip() else '<div class="pause"></div>')
             self.last_sender = None
             return
         m = re.match(r'\[(\w+)\]\s*(.*)$', line)
@@ -171,6 +173,14 @@ class Edition:
         who = self.need_cast(cid, where)
         time = self.book['ui']['time'].format(h=h, m=mi)
         text = lines[1:]
+        reactions = ''
+        if text and text[-1].startswith('[reactions]'):
+            items = [r.strip() for r in text.pop()[len('[reactions]'):].split(',') if r.strip()]
+            for r in items:
+                if not re.match(r'^\S+(\s+\d+)?$', r):
+                    raise StoryError('%s: a reaction is "emoji" or "emoji count", got "%s"' % (where, r))
+            reactions = '<div class="reacts">%s</div>' % ' '.join(
+                '<span>%s</span>' % esc(r.replace(' ', NBSP)) for r in items)
         if not text:
             raise StoryError('%s: empty message' % where)
 
@@ -207,9 +217,9 @@ class Edition:
         avatar = ('<span class="av" style="background:%s">%s</span>' % (attr(color), esc(who['name'][:1].upper()))
                   if first else '<span class="av none"></span>')
         name = '<div class="who" style="color:%s">%s</div>' % (attr(color), esc(who['name'])) if first else ''
-        cls = 'msg' + (' first' if first else '') + (' big' if big else '')
-        self.out.append('<div class="%s">%s<div class="bubble">%s<div class="txt">%s</div><span class="time">%s</span></div></div>'
-                        % (cls, avatar, name, ''.join(parts), esc(time)))
+        cls = 'msg' + (' first' if first else '') + (' big' if big else '') + (' reacted' if reactions else '')
+        self.out.append('<div class="%s">%s<div class="bubble">%s<div class="txt">%s</div><span class="time">%s</span>%s</div></div>'
+                        % (cls, avatar, name, ''.join(parts), esc(time), reactions))
         self.stats['messages'] += 1
 
     def chapter_file(self, path):
