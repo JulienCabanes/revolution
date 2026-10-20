@@ -580,14 +580,17 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Ce qu'il risque** : il est le seul à avoir un filet de sécurité (avocats, réseau, argent). Les autres le savent. « Toi, au pire, ton père appelle quelqu'un. » Tension de classe dans le groupe, surtout quand les ennuis arrivent.
 
 **✅ Le truc de Victor : la musique (Julien)**
-- Pistes (à choisir) :
-  - **Formation classique imposée** par les parents (piano ou violon depuis ses 6 ans, conservatoire), qu'il a **retournée** en rap, électro ou production sur son ordi. Encore un malentendu : le gosse du 16ᵉ qui jure fait de la trap, mais il lit une partition mieux que personne.
-  - **DJ des soirées** : c'est lui qui tient les platines dans le duplex.
+- **Rock. Il joue de la guitare.** Mais **pas en mode lover** : pas le type qui sort la guitare acoustique en soirée pour séduire. Plutôt électrique, saturé, énergique, du bruit.
+- Pistes :
+  - Un ampli dans sa chambre du duplex, les voisins qui se plaignent, les parents qui ont fini par insonoriser la pièce (ou pas).
+  - Peut-être un groupe, des répètes dans un local, des concerts minables dans des bars.
+  - Encore un malentendu possible : on l'imagine au conservatoire, il fait du rock bruyant. (Ou il a fait le conservatoire, imposé, et l'a retourné en riffs.)
+  - Le rock comme langue de la rébellion contre sa famille, et de ses jurons.
 - **Ce que ça apporte à l'intrigue** :
   - **La musique comme couverture** : quand quelqu'un descend au bureau, Victor monte le son. Le volume de la fête devient un signal (et un compte à rebours).
-  - **Le son en manif** : l'idée d'encercler les casseurs avec une fanfare ou une batucada (section 2 bis) devient son domaine. Noyer la casse dans la musique, voler la vedette par le son plutôt que par la force.
-  - **Le remix comme arme** : monter les discours publics des candidats bout à bout pour montrer qu'ils se répètent (la « rengaine », littéralement mise en musique). Satire légale, à partir de déclarations réelles. Et une rengaine, c'est un refrain.
-  - **Dans le chat** : des vocaux avec des beats en fond, des liens vers ses sons que personne n'écoute, des noms de playlists.
+  - **Le son en manif** : l'idée de noyer la casse dans la musique (fanfare, batucada, section 2 bis) devient son domaine. Version rock : un ampli sur un caddie, une guitare saturée qui couvre les slogans des casseurs.
+  - **La rengaine** : une rengaine, c'est un refrain. Il peut en faire une chanson, ou un montage des discours des candidats qui se répètent.
+  - **Dans le chat** : des vocaux avec de la guitare en fond, des liens vers ses morceaux que personne n'écoute, des photos de son ampli.
 
 **✅ Victor organise les soirées (Julien)**
 - C'est **chez lui** qu'ont lieu les soirées. **Les parents sont souvent absents** (cliché assumé de la famille qui a de l'argent).
@@ -625,6 +628,7 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **La révélation** : quand et comment le groupe l'apprend. Un vocal à 3 h du matin ? Une dispute ? Un parent qui en parle ? Victor qui tombe sur l'article ? Et que fait le groupe des blagues d'avant ?
 
 **À préciser plus tard**
+- **Ses études / son truc** : pas encore décidé (Julien). Les autres ont chacun leur domaine (musique, droit et parkour, informatique) ; celui de Rayan doit rester cohérent avec sa douceur et son côté expressif.
 - La famille : origines, combien de frères et sœurs, les parents (métiers, religion, rapport à la police, à la politique, au vote).
 - Ce qui est arrivé exactement au frère (blessé, handicapé, mort ? procès, non-lieu ?) et où il en est aujourd'hui. Références réelles à garder à distance mais à connaître (affaires Adama Traoré en 2016, Théo Luhaka en 2017, Nahel en 2023).
 - Ce que Rayan aime, ce qu'il veut faire de sa vie : pour qu'il ne soit pas défini que par son secret.
@@ -654,6 +658,12 @@ Les casseurs servent deux partis opposés à la fois : l'un attise, l'autre prom
 - **Fille de serrurier ?** Ça reste compatible (un artisan installé, une maison avec jardin), mais ce n'est plus indispensable. À trancher : garder le savoir des serrures chez elle, ou le donner à quelqu'un d'autre.
 
 ---
+
+**✅ Études (Julien)** : **Nour fait des études de droit.**
+- → Elle reprend le rôle de Bastien de la v1 : le **hacking juridique** (les failles de la loi, les vieilles ordonnances, l'état de nécessité, le droit des lanceurs d'alerte).
+- → Contraste savoureux : la casse-cou sportive en jogging, qui escalade des façades et crochète des serrures, **sait exactement ce que dit le code pénal** de ce qu'elle est en train de faire. Elle connaît les peines et elle y va quand même. (Peines exactes à vérifier : séquestration, violation de domicile, accès frauduleux à un système informatique…)
+- → Encore un malentendu : la fille en jogging qu'on croit de cité est en fac de droit.
+- → Dans le chat, elle peut citer des articles de loi pour chambrer les autres (« article 222-13, violences en réunion, Victor, prépare ton avocat »).
 
 **✅ Décision (Julien)** : Nour garde **les serrures ET l'agilité**. C'est **elle qui s'introduit en douce dans les bâtiments**. Elle est le Lupin du groupe au sens propre : celle qui entre.
 
