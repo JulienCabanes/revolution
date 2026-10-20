@@ -150,9 +150,7 @@ Parle de la vitrine, ça va durer une heure
 Ahah très drôle
 
 **Zoé** — 11:28
-moi j'ai pas cours mais je vais pas sortir de ma chambre du week-end
-on a un projet à rendre mardi, un gestionnaire de mots de passe
-et évidemment mon binôme a rien fait
+moi j'ai pas cours mais je vais pas sortir de ma chambre du week-end je dois coder un gestionnaire de mots de passe pour mardi et évidemment mon binôme a rien fait
 
 **Nour** — 11:29
 Ça a l'air passionnant
