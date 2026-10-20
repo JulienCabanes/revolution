@@ -98,7 +98,7 @@ body {
 .av.none { visibility: hidden; height: 0; }
 .bubble {
   position: relative; background: var(--bubble); border-radius: 8px;
-  padding: 6px 9px 7px; box-shadow: var(--shadow); max-width: 100%; min-width: 64px;
+  padding: 5px 7px 6px 9px; box-shadow: var(--shadow); max-width: 100%;
   overflow-wrap: anywhere;
 }
 .msg.first .bubble { border-top-left-radius: 0; }
@@ -110,12 +110,18 @@ body {
 .txt .l { white-space: pre-wrap; }
 .txt .l:empty { height: 1em; }
 .time {
-  float: right; margin: 6px 0 -4px 12px; font-size: 11px; color: var(--meta);
-  font-variant-numeric: tabular-nums; position: relative; top: 4px;
+  position: absolute; right: 7px; bottom: 3px; font-size: 11px; line-height: 15px;
+  color: var(--meta); font-variant-numeric: tabular-nums; white-space: nowrap;
 }
+.tsp { display: inline-block; width: 44px; height: 1px; }
 .msg.big .bubble { background: none; box-shadow: none; padding: 0 2px; }
 .msg.big .bubble::before { display: none; }
-.msg.big .txt { font-size: 40px; line-height: 1.15; }
+.msg.big .txt { display: inline-block; font-size: 40px; line-height: 1.15; vertical-align: bottom; }
+.msg.big .tsp { display: none; }
+.msg.big .time {
+  position: static; display: inline-block; vertical-align: bottom; margin: 0 0 6px 6px;
+  background: var(--bubble); border-radius: 8px; padding: 1px 6px; box-shadow: var(--shadow);
+}
 blockquote {
   margin: 3px 0; padding: 6px 9px; background: var(--quote); border-left: 4px solid var(--quote-bar);
   border-radius: 6px; font-style: italic; font-size: 14px;

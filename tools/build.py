@@ -188,6 +188,14 @@ class Edition:
             a = re.match(r'^\[([^\]]+)\]$', l)
             parts.append(attachment(a.group(1)) if a else '<div class="l">%s</div>' % inline(l))
         flush_quote()
+        # Like WhatsApp: an invisible spacer as wide as the time ends the last
+        # line, so the time sits on that line when there is room and the text
+        # never runs under it.
+        spacer = '<span class="tsp"></span>'
+        if parts[-1].startswith('<div class="l">'):
+            parts[-1] = parts[-1][:-len('</div>')] + spacer + '</div>'
+        else:
+            parts.append('<div class="l">%s</div>' % spacer)
 
         big = 'big' in opts.split() or (len(text) == 1 and EMOJI_ONLY.match(text[0]))
         first = self.last_sender != cid
