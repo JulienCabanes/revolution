@@ -139,129 +139,112 @@ Comme les lycées
 **Zoé** — 11:21
 👏
 
----
-
-**Rayan** — 14:02
-Quelqu'un a cours lundi matin ?
+**Rayan** — 11:23
+Bon changement de sujet, quelqu'un a cours lundi matin ?
 J'ai un exposé et j'ai rien fait 😬
 
-**Zoé** — 14:30
-moi je suis chez mes parents ce week-end
-réseau pourri
-si je réponds pas c'est pas que je vous aime pas
+**Nour** — 11:24
+Sur quoi ?
 
-**Nour** — 14:31
-On sait que tu nous aimes pas
+**Rayan** — 11:25
+La liberté de la presse. Dix minutes à l'oral devant toute la classe
 
-**Zoé** — 14:31
-❤️
+**Nour** — 11:25
+Parle de la vitrine, ça va durer une heure
 
----
+**Rayan** — 11:26
+Ahah très drôle
 
-**Victor** — 23:48
-En vrai
+**Zoé** — 11:28
+moi j'ai pas cours mais je vais pas sortir de ma chambre du week-end
+on a un projet à rendre mardi, un gestionnaire de mots de passe
+et évidemment mon binôme a rien fait
 
-**Victor** — 23:48
-Son idée de Spiderman
+**Nour** — 11:29
+Ça a l'air passionnant
 
-**Victor** — 23:49
-C'est pas si con
+**Zoé** — 11:29
+ça l'est
+c'est un coffre-fort, tu retiens un seul mot de passe et lui retient tous les autres
 
-**Nour** — 23:51
-Merci, c'est ma meilleure idée de la semaine
+**Victor** — 11:31
+Et si quelqu'un a le seul mot de passe ?
 
-**Rayan** — 23:52
-Victor il est 23h50, ça va ou pas 😂
+**Zoé** — 11:31
+bah il a tout
 
-**Victor** — 23:53
-Nan mais écoutez.
-Les flics ils peuvent pas les choper, ils sont au milieu de nous. Dès que les CRS chargent, c'est nous qu'ils chargent.
-Mais nous on est à côté d'eux.
-On les voit arriver.
-On sait qui c'est avant qu'ils mettent les cagoules
+**Victor** — 11:32
+Rassurant
 
-**Nour** — 23:54
-Et donc on fait quoi, on leur demande gentiment ?
+**Rayan** — 11:33
+Moi j'ai le même mot de passe partout, comme ça j'oublie pas 😇
 
-**Victor** — 23:55
-Un filet
+**Zoé** — 11:33
+rayan non
 
-**Nour** — 23:55
-💀
-
-**Rayan** — 23:55
-UN FILET 😭😭😭
-
-**Nour** — 23:56
-Monsieur veut pêcher des black blocs
-
-**Victor** — 23:56
-Riez bande de bâtards
-
-**Victor** — 23:57
-Zoé t'es là ? Demande à ton IA si c'est possible
-
-**Zoé** — 00:24
-comment ça
-
-**Victor** — 00:24
-Bah un filet.
-Genre de 20 mètres de long
-
-**Zoé** — 00:25
-et comment on les encercle
-
-**Victor** — 00:25
-Bah j'sais pas.
-Faut juste aller vite ?
-
-**Nour** — 00:26
-« Faut juste aller vite » 😭😭😭
-Le plan du siècle
-
-**Rayan** — 00:26
-Je capture ce message pour l'histoire
-
-**Zoé** — 00:31
-attendez
+**Nour** — 11:34
+Rayan file-le nous, on fera ton exposé
 
 ---
 
-**Zoé** — 00:38
-bon je lui ai demandé, je vous colle la réponse
-> *Je comprends votre frustration : voir une manifestation pacifique éclipsée par quelques dégradations est un vrai problème, et il est légitime de chercher à protéger votre message. En revanche, je ne peux pas vous aider à organiser l'immobilisation de personnes avec un filet. Ce serait dangereux pour elles comme pour vous, au milieu d'une foule, et cela pourrait être qualifié de violences, voire de séquestration.*
->
-> *Si votre objectif est d'éviter que les casseurs ne captent l'attention, il existe d'autres approches qui ont été utilisées par le passé : des services d'ordre organisés, des cortèges très visuels qui imposent leurs propres images aux médias, la documentation systématique de ce qui se passe…*
+**Victor** — 11:52
+En vrai c'est pas con
 
-**Rayan** — 00:39
-Elle est trop polie 😭
+**Nour** — 11:53
+De quoi ? Un gestionnaire de mots de passe ?
 
-**Nour** — 00:39
+**Victor** — 11:53
+Non. Spiderman
+
+**Rayan** — 11:54
+Comment ça ?
+
+**Victor** — 11:55
+Imagine si on pouvait les attraper avec un filet géant ?
+
+**Nour** — 11:55
+Un filet géant ? Wow t'as respiré trop de gaz !
+
+**Rayan** — 11:56
+😂😂😂
+
+**Victor** — 11:58
+Nan je suis sérieux. Imagine un filet de 20 m ou plus qu'on déploie, et on les encercle avec. Ça marcherait non ?
+Zoé t'en dis quoi ?
+
+**Zoé** — 12:06
+je viens de demander à l'IA
+
+**Zoé** — 12:06
+> *Je ne peux pas vous aider avec ça. Immobiliser des personnes au milieu d'une foule est dangereux, pour elles comme pour vous, et constitue une infraction (violences, séquestration). Si vous voulez protéger votre cortège, renseignez-vous plutôt sur le rôle des services d'ordre.*
+
+**Nour** — 12:07
 Elle a dit séquestration, elle est en droit avec moi ou quoi
 
-**Victor** — 00:41
+**Rayan** — 12:07
+Elle est polie au moins 😅
+
+**Victor** — 12:08
 Elle a pas dit que c'était impossible
 
-**Zoé** — 00:41
-elle a dit que c'était dangereux
+**Zoé** — 12:10
+elle a dit que c'était pas une chose à faire, nuance
+bon je vais tester avec un modèle open source, ils ont pas tous ces soucis de censure
 
-**Victor** — 00:42
-C'est pas pareil
+**Nour** — 12:11
+Et ton gestionnaire de mots de passe ?
 
-**Zoé** — 00:44
-…
+**Zoé** — 12:11
+il attendra
 
-**Zoé** — 00:44
-non c'est pas pareil
-
-**Nour** — 00:45
+**Nour** — 12:12
 On en parle samedi chez le marquis ?
 
-**Victor** — 00:45
+**Victor** — 12:12
 Je vous déteste
 
-**Victor** — 00:45
+**Victor** — 12:12
 Oui. Samedi. Ramenez à boire.
 
-**Rayan** — 00:46
+**Rayan** — 12:13
 🙌🙌🙌
