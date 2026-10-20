@@ -813,6 +813,16 @@ Les quatre enfants du Club des Cinq, et ce qu'ils pourraient devenir :
 
 ---
 
+## 2 undecies. Titre (en réflexion)
+
+- Provisoire : **« Révolution »** (nom du dépôt).
+- Piste de Julien : **« La République, c'est nous »**.
+  - Pour : renverse « L'État, c'est moi » ; « nous » = le groupe, la majorité invisible, les gens qu'on ne compte pas. Ton à la fois ironique et sincère.
+  - Attention : écho direct du « La République, c'est moi ! » de Jean-Luc Mélenchon (perquisition de 2018). Beaucoup de lecteurs l'entendront. Ça peut servir le thème de la récupération (ils reprennent une phrase récupérée), ou faire croire à un livre partisan alors que le groupe refuse les deux extrêmes. À assumer en connaissance de cause, éventuellement en le faisant dire ou commenter par un personnage.
+- Autres pistes : « Rien n'a été volé » (v1), « Mais que fait Spiderman ? », « Maisonnée 7 », « Personne ne nous voit venir » (le motif du malentendu), « Le Club des Cinq va voter ».
+
+---
+
 ## 3. La cause, et comment elle évolue
 
 ### Causes possibles
