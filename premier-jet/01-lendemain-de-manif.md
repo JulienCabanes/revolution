@@ -128,7 +128,6 @@ c'est eux le message maintenant
 nous on est le décor
 
 **Nour** — 11:19
-Bon bah.
 Mais que fait Spiderman 🕷️
 
 **Rayan** — 11:20
