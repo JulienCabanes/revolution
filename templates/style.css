@@ -141,3 +141,4 @@ blockquote {
   .press { margin: 22px 0; padding: 16px 16px 14px; }
   .cover h1 { font-size: 28px; }
 }
+.epilogue:empty { display: none; }
