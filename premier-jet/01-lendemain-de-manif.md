@@ -120,6 +120,9 @@ Les casseurs.
 Ils nous volent la manif.
 On se lève à 6h, on fait les banderoles, on marche 4 heures, et eux ils arrivent à la fin et ils repartent avec la une
 
+**Nour** — 11:16
+Et des TV 55 pouces
+
 **Zoé** — 11:17
 c'est eux le message maintenant
 nous on est le décor
