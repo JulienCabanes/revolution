@@ -709,3 +709,92 @@ Ok, imaginons… Et comment on fait ça ?
 zoe 12:58
 j'ai peut-être une idée
 [reactions] 👀 3
+
+[interlude] Plus tard dans la soirée
+
+zoe 21:08
+bon, j'ai plusieurs idées mais ça reste très vague…
+
+rayan 21:08
+Dis-nous
+
+zoe 21:10
+j'ai un pote qui m'a indiqué plusieurs failles sur les sites de certains partis et candidats…
+
+nour 21:11
+On pourrait faire quoi ? Mettre notre message dessus ?
+
+victor 21:12
+Non, on en est plus là. On passe à la vitesse supérieure. Quoi comme parti ?
+
+zoe 21:13
+le RN déjà. une vraie passoire, pour un parti qui revendique la sécurité…
+
+rayan 21:13
+Jure, tu peux les pirater là maintenant ?!
+
+zoe 21:14
+a priori la faille est toujours là, je viens de la tester…
+
+victor 21:15
+On ne touche pas au RN, c'est contre-productif
+
+zoe 21:17
+j'ai LFI aussi. eux c'est pire, c'est pas juste le site, c'est leurs mails aussi
+
+rayan 21:17
+Y a des trucs louches ?
+
+zoe 21:18
+j'ai pas regardé. je pense qu'on sera déçus
+
+victor 21:19
+Tu peux envoyer des mails en leur nom ?
+
+zoe 21:21
+a priori oui. mais surtout, je peux recevoir les codes du multifacteur
+
+nour 21:21
+Ça veut dire ?
+
+zoe 21:22
+que je pourrais accéder à leurs comptes sur les réseaux
+
+nour 21:22
+Genre quoi ? Le Insta de Méluche ?
+
+zoe 21:24
+en théorie. encore une fois j'ai pas testé, je vous dis juste ce que je vois…
+
+rayan 21:25
+Ok, et on en ferait quoi ?
+
+victor 21:26
+On crée une affaire bidon
+
+rayan 21:28
+Ils diront qu'ils se sont fait hacker, que c'est un coup de Macron et de la DGSE, et retour à la case départ
+
+victor 21:31
+Ce qui compte c'est l'opinion publique. Si c'est un simple hack avec des photos IA de Mélenchon en slip, ça suffira pas. 3 jours plus tard on sera passés à autre chose
+
+nour 21:32
+Ceci dit je dirais pas non pour ces photos ^^
+
+zoe 21:32
+ça c'est easy
+
+victor 21:34
+En fait il faut un scénario tellement tordu que personne n'y croira
+
+rayan 21:34
+Plus c'est gros plus ça passe
+
+victor 21:36
+C'est ça. S'ils tentent d'expliquer, ça ajoutera au ridicule
+
+zoe 21:38
+je sens qu'on va encore avoir besoin d'une IA open pour trouver un narratif…
+
+nour 21:39
+Tu m'oublies pas pour les photos ?
