@@ -65,15 +65,10 @@ Oui j'ai vu.
 Y a des gens qui sont sortis avec des cartons
 
 **Nour** — 10:36
-Rayan dis-moi la vérité.
-T'as pas ramené une télé OLED ?
-
-**Nour** — 10:36
-Une petite 55 pouces vite fait
+Rayan c'est pas toi qu'on voit avec un OLED 55 pouces ?
 
 **Rayan** — 10:37
-MDR
-non je l'ai laissée à ton cousin
+Ahah ! Non c'est ton cousin
 
 **Nour** — 10:37
 Ah il me semblait aussi 😭
