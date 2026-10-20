@@ -86,9 +86,9 @@ ATTACHMENTS = {
 
 
 def attachment(label):
-    key = label.split(' ')[0] if label.split(' ')[0] in ('vocal',) else label
-    icon, name = ATTACHMENTS.get(key.lower(), ('📎', label))
-    extra = label[len(key):].strip() if key != label else ''
+    key = label if label.lower() in ATTACHMENTS else label.split(' ')[0]
+    icon, name = ATTACHMENTS.get(key.lower(), ('📎', key))
+    extra = label[len(key):].strip()
     text = name + (' · ' + extra if extra else '')
     return '<div class="att"><span class="ai">%s</span>%s</div>' % (icon, inline(text))
 
