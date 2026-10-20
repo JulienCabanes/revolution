@@ -105,6 +105,7 @@ class Edition:
         self.out = []
         self.groups = []          # successive names of the group
         self.last_sender = None   # to merge the avatar of consecutive messages
+        self.last_time = 0
         self.chapters = []
         self.stats = dict(messages=0, articles=0)
 
@@ -198,8 +199,10 @@ class Edition:
             parts.append('<div class="l">%s</div>' % spacer)
 
         big = 'big' in opts.split() or (len(text) == 1 and EMOJI_ONLY.match(text[0]))
-        first = self.last_sender != cid
-        self.last_sender = cid
+        # A new run starts with another author, or after an hour of silence.
+        minutes = int(h) * 60 + int(mi)
+        first = self.last_sender != cid or abs(minutes - self.last_time) >= 60
+        self.last_sender, self.last_time = cid, minutes
         color = who['color']
         avatar = ('<span class="av" style="background:%s">%s</span>' % (attr(color), esc(who['name'][:1].upper()))
                   if first else '<span class="av none"></span>')
