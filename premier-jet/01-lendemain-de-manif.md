@@ -2,6 +2,8 @@
 
 *Premier jet. Format : conversation de groupe + documents intercalés. Rien n'est figé.*
 
+*Conventions d'écriture du chat : pas de langage SMS, seulement quelques élisions à l'oral (« j'm'en fous », « t'as »). Dans un même message, pas de majuscule en début de ligne si la ligne précédente ne se termine pas par une ponctuation.*
+
 ---
 
 **Groupe : « Maisonnée 7 🎸 »**
@@ -10,15 +12,14 @@
 
 **Rayan** — 09:12
 Bien rentrés tout le monde ?
-C'était trop cool de se voir hier, même avec tout le bordel 🥹
+C'était trop cool de se voir hier, même avec tout ce qui s'est passé 🥹
 
 **Rayan** — 09:12
 Nour t'as eu ton train finalement ?
 
 **Nour** — 09:40
-Bah non
-Supprimé
-J'ai pris le suivant, 1h10 de retard, arrivée minuit et demi
+Bah non, supprimé.
+J'ai pris le suivant, 1h10 de retard, arrivée minuit et demi.
 Ma mère m'attendait sur le parking avec la tête de la mort
 
 **Rayan** — 09:41
@@ -28,10 +29,10 @@ Ma mère m'attendait sur le parking avec la tête de la mort
 Putain j'ai encore les yeux qui piquent
 
 **Victor** — 10:03
-Je me suis lavé les cheveux trois fois ça sent encore le gaz
+Je me suis lavé les cheveux trois fois, ça sent encore le gaz
 
 **Nour** — 10:05
-C'est pas le gaz Victor c'est toi
+C'est pas le gaz Victor, c'est toi
 
 **Victor** — 10:05
 Va te faire
@@ -39,10 +40,10 @@ Va te faire
 **Rayan** — 10:06
 😂😂😂
 
-**Victor** — 10:11
-Vous avez vu les vidéos ?
+**Zoé** — 10:11
+vous avez vu les vidéos ?
 
-**Victor** — 10:11
+**Zoé** — 10:11
 *[lien]*
 
 ---
@@ -60,19 +61,19 @@ le magasin d'électroménager c'est celui devant lequel on était
 genre à 50 mètres
 
 **Rayan** — 10:35
-Ouais j'ai vu
+Oui j'ai vu.
 Y a des gens qui sont sortis avec des cartons
 
 **Nour** — 10:36
-Rayan dis-moi la vérité
+Rayan dis-moi la vérité.
 T'as pas ramené une télé OLED ?
 
 **Nour** — 10:36
 Une petite 55 pouces vite fait
 
 **Rayan** — 10:37
-MDRRR
-Nan je l'ai laissée à ton cousin
+MDR
+non je l'ai laissée à ton cousin
 
 **Nour** — 10:37
 Ah il me semblait aussi 😭
@@ -81,8 +82,8 @@ Ah il me semblait aussi 😭
 Vous êtes graves
 
 **Rayan** — 10:39
-Franchement ça m'a dégoûté
-On était trop bien, y avait les profs du lycée Delaunay avec leur banderole, y avait des parents
+Franchement ça m'a dégoûté.
+On était trop bien, y avait les profs du lycée Delaunay avec leur banderole, y avait des parents.
 Et là tout ce qu'on retient c'est des mecs qui pètent une vitrine
 
 **Rayan** — 10:39
@@ -96,12 +97,12 @@ temps sur la vitrine : en boucle
 **Zoé** — 10:42
 genre littéralement en boucle, la même image
 
-**Victor** — 10:44
-Le pire c'est que la moitié des gars en noir ils ont même pas dix-huit ans
+**Rayan** — 10:44
+Le pire c'est que la moitié des gars en noir ils ont même pas dix-huit ans.
 Ils savent même pas pourquoi on manifestait
 
-**Nour** — 10:45
-Ils s'en battent les reins de pourquoi on manifestait
+**Victor** — 10:45
+Ils s'en battent les reins de pourquoi on manifestait.
 Ils viennent pour ça, c'est leur sport
 
 **Nour** — 10:45
@@ -117,7 +118,7 @@ C'est pas pareil
 C'est exactement pareil
 
 **Nour** — 10:47
-Non c'est leur gaz, je leur rends, c'est de la politesse
+Non. C'est leur gaz, je leur rends, c'est de la politesse
 
 **Zoé** — 10:47
 avec le vent ça nous est retombé dessus
@@ -126,14 +127,13 @@ avec le vent ça nous est retombé dessus
 Détail
 
 **Rayan** — 10:48
-Arrêtez de vous embrouiller on était trop bien hier 🙏
+Arrêtez de vous embrouiller, on était trop bien hier 🙏
 
 ---
 
 **Victor** — 11:15
-En vrai c'est pas les CRS le problème
-C'est eux
-Les casseurs
+En vrai c'est pas les CRS le problème, c'est eux.
+Les casseurs.
 Ils nous volent la manif
 
 **Victor** — 11:15
@@ -144,7 +144,7 @@ c'est eux le message maintenant
 nous on est le décor
 
 **Nour** — 11:19
-Bon bah
+Bon bah.
 Mais que fait Spiderman 🕷️
 
 **Rayan** — 11:19
@@ -188,16 +188,16 @@ Son idée de Spiderman
 C'est pas si con
 
 **Nour** — 23:51
-Merci c'est ma meilleure idée de la semaine
+Merci, c'est ma meilleure idée de la semaine
 
 **Rayan** — 23:52
-Victor il est 23h50 ça va ou pas 😂
+Victor il est 23h50, ça va ou pas 😂
 
 **Victor** — 23:53
-Nan mais écoutez
-Les flics ils peuvent pas les choper, ils sont au milieu de nous, dès que les CRS chargent c'est nous qu'ils chargent
-Mais nous on est à côté d'eux
-On les voit arriver
+Nan mais écoutez.
+Les flics ils peuvent pas les choper, ils sont au milieu de nous. Dès que les CRS chargent, c'est nous qu'ils chargent.
+Mais nous on est à côté d'eux.
+On les voit arriver.
 On sait qui c'est avant qu'ils mettent les cagoules
 
 **Nour** — 23:54
@@ -216,7 +216,7 @@ UN FILET 😭😭😭
 Monsieur veut pêcher des black blocs
 
 **Victor** — 23:56
-Riez bande de bâtards
+Riez bande de bâtards.
 Zoé
 
 **Victor** — 23:57
@@ -229,14 +229,14 @@ Demande à ton IA si c'est possible
 comment ça
 
 **Victor** — 00:24
-Bah un filet
+Bah un filet.
 Genre de 20 mètres de long
 
 **Zoé** — 00:25
 et comment on les encercle
 
 **Victor** — 00:25
-Bah je sais pas
+Bah j'sais pas.
 Faut juste aller vite ?
 
 **Nour** — 00:26
