@@ -171,19 +171,11 @@ Rassurant
 **Rayan** — 11:33
 Moi j'ai le même mot de passe partout, comme ça j'oublie pas 😇
 
-**Zoé** — 11:33
-rayan non
-
-**Nour** — 11:34
-Rayan file-le nous, on fera ton exposé
-
----
-
 **Victor** — 11:52
 En vrai c'est pas con
 
-**Nour** — 11:53
-De quoi ? Un gestionnaire de mots de passe ?
+**Zoé** — 11:53
+de quoi ? D'avoir le même mot de passe partout ??
 
 **Victor** — 11:53
 Non. Spiderman
