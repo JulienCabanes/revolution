@@ -123,9 +123,11 @@ class Edition:
             title, sub, anchor = m.groups()
             anchor = anchor or 'c%d' % (len(self.chapters) + 1)
             self.chapters.append((anchor, title, sub))
-            self.out.append('<section class="chapter" id="%s"><div class="ct">%s</div>%s</section>'
-                            % (attr(anchor), inline(title),
-                               '<div class="cs">%s</div>' % inline(sub) if sub else ''))
+            # "# Title" alone is the chapter title; "# Kicker | Title" adds a small line above.
+            kicker, title = (title, sub) if sub else (None, title)
+            self.out.append('<section class="chapter" id="%s">%s<div class="cs">%s</div></section>'
+                            % (attr(anchor), '<div class="ct">%s</div>' % inline(kicker) if kicker else '',
+                               inline(title)))
             self.last_sender = None
             return
         m = re.match(r'---\s*(.*)$', line)

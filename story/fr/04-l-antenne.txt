@@ -1,4 +1,4 @@
-# Séquence 4 | L'antenne {#s4}
+# L'antenne {#s4}
 
 --- Vendredi
 
@@ -129,6 +129,8 @@ nour 11:15
 
 [interlude] Quatre jours plus tard
 
+# Mehdi {#s5}
+
 --- Mardi
 
 victor 21:14
@@ -194,6 +196,8 @@ MDR même moi j'ai eu un doute !
 [reactions] 😂 2
 
 [interlude] Deux jours plus tard
+
+# Gare du Nord {#s6}
 
 --- Jeudi
 
@@ -290,6 +294,8 @@ Ahahah comme au SNU, je suis mort !
 [reactions] 😂 2, ❤️ 1
 
 [interlude] Trois jours plus tard
+
+# Le slogan {#s7}
 
 --- Dimanche
 

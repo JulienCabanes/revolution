@@ -79,7 +79,7 @@ La première ligne donne la source, la deuxième le titre, les suivantes le corp
 | directive | effet |
 |-----------|-------|
 | `[group] Maisonnée 7 🎸` | nom du groupe (le premier est obligatoire ; les suivants renomment le groupe dans l'en-tête au fil de la lecture) |
-| `# Séquence 1 \| Le lendemain {#s1}` | début de séquence (titre, sous-titre, ancre facultative) |
+| `# Le lendemain {#s1}` | début de séquence : titre, ancre facultative (`# Surtitre \| Titre` ajoute une petite ligne au-dessus) |
 | `--- Vendredi` | séparateur de date (`---` seul : courte pause dans la même journée) |
 | `[event] Victor a renommé le groupe` | message système centré |
 | `[interlude] Trois semaines plus tard` | ellipse centrée |

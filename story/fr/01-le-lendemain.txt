@@ -1,6 +1,6 @@
 [group] Maisonnée 7 🎸
 
-# Séquence 1 | Le lendemain {#s1}
+# Le lendemain {#s1}
 
 --- Vendredi
 
