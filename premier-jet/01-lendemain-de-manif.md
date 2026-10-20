@@ -20,7 +20,7 @@ Nour t'as eu ton train finalement ?
 **Nour** — 09:40
 Bah non, supprimé.
 J'ai pris le suivant, 1h10 de retard, arrivée minuit et demi.
-Ma mère m'attendait sur le parking avec la tête de la mort
+Ma mère s'était endormie sur le parking…
 
 **Rayan** — 09:41
 😭😭
