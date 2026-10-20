@@ -2,7 +2,10 @@
 
 *Premier jet. Format : conversation de groupe + documents intercalés. Rien n'est figé.*
 
-*Conventions d'écriture du chat : pas de langage SMS, seulement quelques élisions à l'oral (« j'm'en fous », « t'as »). Dans un même message, pas de majuscule en début de ligne si la ligne précédente ne se termine pas par une ponctuation.*
+*Conventions d'écriture du chat :*
+- *pas de langage SMS, seulement quelques élisions à l'oral (« j'm'en fous », « t'as ») ;*
+- *dans un même message, pas de majuscule en début de ligne si la ligne précédente ne se termine pas par une ponctuation ;*
+- *on évite les messages multiples d'une même personne à la suite : quand ça arrive, c'est pour appuyer quelque chose ou parce qu'il y a un temps de réflexion.*
 
 ---
 
@@ -13,8 +16,6 @@
 **Rayan** — 09:12
 Bien rentrés tout le monde ?
 C'était trop cool de se voir hier, même avec tout ce qui s'est passé 🥹
-
-**Rayan** — 09:12
 Nour t'as eu ton train finalement ?
 
 **Nour** — 09:40
@@ -26,10 +27,7 @@ Ma mère s'était endormie sur le parking…
 😭😭
 
 **Victor** — 10:03
-Putain j'ai encore les yeux qui piquent
-
-**Victor** — 10:03
-Je me suis lavé les cheveux trois fois, ça sent encore le gaz
+Putain j'ai encore les yeux qui piquent. Je me suis lavé les cheveux trois fois, ça sent encore le gaz
 
 **Nour** — 10:05
 C'est pas le gaz Victor, c'est toi
@@ -42,8 +40,6 @@ Va te faire
 
 **Zoé** — 10:11
 vous avez vu les vidéos ?
-
-**Zoé** — 10:11
 *[lien]*
 
 ---
@@ -55,10 +51,7 @@ vous avez vu les vidéos ?
 ---
 
 **Zoé** — 10:34
-le magasin d'électroménager c'est celui devant lequel on était
-
-**Zoé** — 10:34
-genre à 50 mètres
+le magasin d'électroménager c'est celui devant lequel on était, genre à 50 mètres
 
 **Rayan** — 10:35
 Oui j'ai vu.
@@ -79,18 +72,13 @@ Vous êtes graves
 **Rayan** — 10:39
 Franchement ça m'a dégoûté.
 On était trop bien, y avait les profs du lycée Delaunay avec leur banderole, y avait des parents.
-Et là tout ce qu'on retient c'est des mecs qui pètent une vitrine
-
-**Rayan** — 10:39
+Et là tout ce qu'on retient c'est des mecs qui pètent une vitrine.
 Ça me rend triste en vrai
 
 **Zoé** — 10:42
 j'ai regardé 4 chaînes d'info ce matin
 temps de parole sur les moyens des lycées : 0
-temps sur la vitrine : en boucle
-
-**Zoé** — 10:42
-genre littéralement en boucle, la même image
+temps sur la vitrine : en boucle, genre littéralement, la même image
 
 **Rayan** — 10:44
 Le pire c'est que la moitié des gars en noir ils ont même pas dix-huit ans.
@@ -129,9 +117,7 @@ Arrêtez de vous embrouiller, on était trop bien hier 🙏
 **Victor** — 11:15
 En vrai c'est pas les CRS le problème, c'est eux.
 Les casseurs.
-Ils nous volent la manif
-
-**Victor** — 11:15
+Ils nous volent la manif.
 On se lève à 6h, on fait les banderoles, on marche 4 heures, et eux ils arrivent à la fin et ils repartent avec la une
 
 **Zoé** — 11:17
@@ -142,11 +128,8 @@ nous on est le décor
 Bon bah.
 Mais que fait Spiderman 🕷️
 
-**Rayan** — 11:19
-😂😂
-
 **Rayan** — 11:20
-Spiderman il est au chômage, la mairie a plus les moyens
+😂😂 Spiderman il est au chômage, la mairie a plus les moyens
 
 **Nour** — 11:20
 Comme les lycées
@@ -211,14 +194,10 @@ UN FILET 😭😭😭
 Monsieur veut pêcher des black blocs
 
 **Victor** — 23:56
-Riez bande de bâtards.
-Zoé
+Riez bande de bâtards
 
 **Victor** — 23:57
-Zoé t'es là ?
-
-**Victor** — 23:57
-Demande à ton IA si c'est possible
+Zoé t'es là ? Demande à ton IA si c'est possible
 
 **Zoé** — 00:24
 comment ça
@@ -247,10 +226,7 @@ attendez
 ---
 
 **Zoé** — 00:38
-bon je lui ai demandé
-je vous colle la réponse
-
-**Zoé** — 00:38
+bon je lui ai demandé, je vous colle la réponse
 > *Je comprends votre frustration : voir une manifestation pacifique éclipsée par quelques dégradations est un vrai problème, et il est légitime de chercher à protéger votre message. En revanche, je ne peux pas vous aider à organiser l'immobilisation de personnes avec un filet. Ce serait dangereux pour elles comme pour vous, au milieu d'une foule, et cela pourrait être qualifié de violences, voire de séquestration.*
 >
 > *Si votre objectif est d'éviter que les casseurs ne captent l'attention, il existe d'autres approches qui ont été utilisées par le passé : des services d'ordre organisés, des cortèges très visuels qui imposent leurs propres images aux médias, la documentation systématique de ce qui se passe…*
