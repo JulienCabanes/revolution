@@ -125,7 +125,7 @@ nous on est le décor
 Mais que fait Spiderman 🕷️
 
 **Rayan** — 11:20
-😂😂 Spiderman il est au chômage, la mairie a plus les moyens
+😂😂 Spiderman je l'ai vu dans la manif, il faisait le guignol avec le cortège LFI. Il doit manquer de thunes
 
 **Nour** — 11:20
 Comme les lycées
